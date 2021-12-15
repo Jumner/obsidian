@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "spellcheck": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "showLineNumber": true
 }
