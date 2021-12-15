@@ -7,11 +7,8 @@
         "id": "858727f65db62ee8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "488ccba74690cec9"
       },
@@ -19,11 +16,8 @@
         "id": "3c415f4569785a03",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "488ccba74690cec9"
       }
@@ -65,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aeb006fb29ae8ca4",
@@ -82,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +94,7 @@
   },
   "active": "858727f65db62ee8",
   "lastOpenFiles": [
+    "bio/testnote.md",
     "README.md"
   ]
 }
