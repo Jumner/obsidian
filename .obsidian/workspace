@@ -1,25 +1,31 @@
 {
   "main": {
-    "id": "4db6503c1355f2f1",
+    "id": "843281a05a8de609",
     "type": "split",
     "children": [
       {
-        "id": "858727f65db62ee8",
+        "id": "2a5bf6716905ee96",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown-cheat-sheet.md",
+            "mode": "source"
+          }
         },
-        "group": "488ccba74690cec9"
+        "group": "dc65bbf8ff8f4bf9"
       },
       {
-        "id": "3c415f4569785a03",
+        "id": "4f364b682255345b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown-cheat-sheet.md",
+            "mode": "preview"
+          }
         },
-        "group": "488ccba74690cec9"
+        "group": "dc65bbf8ff8f4bf9"
       }
     ],
     "direction": "vertical"
@@ -75,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown-cheat-sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "858727f65db62ee8",
+  "active": "4f364b682255345b",
   "lastOpenFiles": [
-    "bio/testnote.md",
-    "README.md"
+    "markdown-cheat-sheet.md",
+    "README.md",
+    "bio/testnote.md"
   ]
 }
