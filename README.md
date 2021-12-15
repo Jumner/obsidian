@@ -17,7 +17,7 @@ I've always been so disorganized so I thought I should do something about it bef
 - This fact is true [^1]
 
 ~~~rust
-// I can write code here! 🦀
+// I can write code here! 
 let x : u8 = 5; // With syntax highlighting!
 ~~~
 
