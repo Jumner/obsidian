@@ -34,7 +34,7 @@ Controlled by the **Hypothalamus**
 - **Thyroid** will then either release **Calcitonin** or **T4**
 - **T4** inhibits **TRH**
 
-## **Hypo**thyroidism
+## **Hypo**thyroidism (Low T4)
 - Cold intolerance
 - Weight gain
 - Dry skin
@@ -43,7 +43,7 @@ Controlled by the **Hypothalamus**
 - Goiter
 - Possible **low iodine**
 
-## **Hyper**thyroidism
+## **Hyper**thyroidism (High T4)
 - Heat intolerance
 - Weight "loss"
 - Sweating

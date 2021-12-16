@@ -1,9 +1,10 @@
 # What is Homeostasis?
 ---
 <br/>
-## Homeostasis
-- Homeostasis is a state of equilibrium in the body
-- Where the body will regulate something back to a standard value
+
+> ## Homeostasis
+> - Homeostasis is a state of equilibrium in the body
+> - Where the body will regulate something back to a standard value
 
 ---
 

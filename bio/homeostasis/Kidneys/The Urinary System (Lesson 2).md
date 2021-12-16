@@ -2,14 +2,12 @@
 ---
 <br/>
 ---
-## The Kidneys
----
-
-**Kidneys** are small organs in your back that are about the size of your fist
-- They filter a bathtub of blood per day
-- They initially lose about **120ml** of fluid per minute but reclaim **119ml** of that lost liquid
-- Results in around 1ml of pee per minute
-- A bunch of **medulla** that are surrounded by a **cortex**
+> ## The Kidneys
+> **Kidneys** are small organs in your back that are about the size of your fist
+> - They filter a bathtub of blood per day
+> - They initially lose about **120ml** of fluid per minute but reclaim **119ml** of that lost liquid
+> - Results in around 1ml of pee per minute
+> - A bunch of **medulla** that are surrounded by a **cortex**
 
 ---
 
@@ -19,11 +17,11 @@
 - At **600ml**, your body has enough and your body forces you to go
 - peeing is controlled by the **internal** and **external** sphincters
 
-## Nephron
-- Millions in the [[#The Kidneys|kidneys]]
-- **Blood pressure** forces water and particulates through the **capillaries** into the **proximal convoluted tubule**
-- Filtering process is called **ultrafiltration**
-- Goes through the **cortex** and **medulla**
+> ## Nephron
+> - Millions in the [[#The Kidneys|kidneys]]
+> - **Blood pressure** forces water and particulates through the **capillaries** into the **proximal convoluted tubule**
+> - Filtering process is called **ultrafiltration**
+> - Goes through the **cortex** and **medulla**
 
 ---
 ### Parts of the [[#Nephron]]
@@ -52,7 +50,7 @@
 ## Distal Convoluted Tubule
 - Water re-absorption  is **configurable**
 - **Calcium** is re-absorbed in the presence of **ADH** 
-- **Sodium** (and **water**) is re-absorbed in the presence of **aldosterone** which is released by the **adrenal glands** and controlled by the **pituitary gland**
+- **Sodium** (and **water**) is re-absorbed in the presence of **[[#Aldosterone]]** which is released by the **[[Adrenal and Pituitary Glands (Lesson 4)#Adrenal Gland|Adrenal Gland]]** and controlled by the **[[Adrenal and Pituitary Glands (Lesson 4)#Pituitary Gland|Pituitary Gland]]**
 
 
 # Loop of Henle
