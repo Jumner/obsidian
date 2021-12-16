@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Dark Moss"
+  "cssTheme": "Dracula for Obsidian",
+  "theme": "obsidian"
 }

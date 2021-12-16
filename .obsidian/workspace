@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "bio/homeostasis/Brain Structure (Lesson 8 & 9).md",
             "mode": "source"
           }
-        }
+        },
+        "group": "790510f5d2b4c216"
+      },
+      {
+        "id": "a93b5c4765898e36",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bio/homeostasis/Brain Structure (Lesson 8 & 9).md",
+            "mode": "preview"
+          }
+        },
+        "group": "790510f5d2b4c216"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "epineph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "bio/homeostasis/Brain Structure (Lesson 8 & 9).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +133,15 @@
   },
   "active": "4f364b682255345b",
   "lastOpenFiles": [
-    "README.md",
-    "markdown-cheat-sheet.md",
-    "2021-12-16.md",
-    "bio/testnote.md"
+    "bio/homeostasis/Brain Structure (Lesson 8 & 9).md",
+    "Pasted image 20211215233527.png",
+    "Pasted image 20211215233409.png",
+    "Pasted image 20211215203232.png",
+    "bio/homeostasis/Neurons (Lesson 6).md",
+    "bio/homeostasis/Sex Hormones (Lesson 5).md",
+    "bio/homeostasis/Kidneys/Adrenal and Pituitary Glands (Lesson 4).md",
+    "bio/homeostasis/Kidneys/The Urinary System (Lesson 2).md",
+    "bio/homeostasis/Blood Pressure (Lesson 3).md",
+    "markdown-cheat-sheet.md"
   ]
 }

@@ -6,5 +6,7 @@
   "obsidian-emoji-toolbar",
   "obsidian-git",
   "obsidian-citation-plugin",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "url-into-selection",
+  "obsidian-icons-plugin"
 ]

@@ -2,5 +2,42 @@
   "vimMode": true,
   "spellcheck": true,
   "tabSize": 2,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "spellcheckDictionary": [
+    "Effectors",
+    "Thermoregulation",
+    "vasodilation",
+    "Nephron",
+    "ultrafiltration",
+    "glomerulus",
+    "henle",
+    "aldosterone",
+    "Angiotensin",
+    "norepinephrine",
+    "angiotensinogen",
+    "renin",
+    "angiotensin",
+    "br",
+    "Calcitonin",
+    "thyroidism",
+    "Vasopressin",
+    "Oxytocin",
+    "Unipolar",
+    "Pseudounipolar",
+    "Multipolar",
+    "reuptake",
+    "Myelin",
+    "Presynaptic",
+    "Occipital",
+    "oblongata",
+    "Pons",
+    "callosum"
+  ],
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
