@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bio/Book.md",
-            "mode": "preview",
+            "file": "compeng/SVG Technical Report.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adrenal",
+                "query": "anti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bio/Book.md",
+                "file": "compeng/SVG Technical Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +122,15 @@
   },
   "active": "27077b2845873b01",
   "lastOpenFiles": [
-    "bio/Book.md",
-    "markdown-cheat-sheet.md",
-    "center.md",
+    "compeng/SVG Technical Report.md",
+    "bio/homeostasis/Neurons (Lesson 6).md",
     "bio/homeostasis/Kidneys/Adrenal and Pituitary Glands (Lesson 4).md",
+    "bio/homeostasis/Kidneys/The Urinary System (Lesson 2).md",
+    "bio/homeostasis/Sex Hormones (Lesson 5).md",
+    "bio/homeostasis/Brain Structure (Lesson 8 & 9).md",
+    "bio/homeostasis/What is homeostasis? (Lesson 1).md",
     "compsci/Linked lists.md",
     "compsci/The Stack and the Heap.md",
-    "README.md",
-    "Pasted image 20211215233409.png",
-    "Pasted image 20211215203232.png",
-    "bio/homeostasis/Brain Structure (Lesson 8 & 9).md"
+    "bio/homeostasis/Blood Pressure (Lesson 3).md"
   ]
 }
