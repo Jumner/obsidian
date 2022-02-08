@@ -28,7 +28,7 @@
 - Contain a dot in the formula which separates the compound from water
 - contains water in its structure. 
 - Uses greek
-- Na2CO3 \* 10H2O -> Sodium carbonate decahydrate
+- $\ce{Na2CO3 \cdot 10H2O ->}$ Sodium carbonate decahydrate
 
 ## Elements
 - Noble gases are monatomic (they are alone)
@@ -49,14 +49,14 @@ Transition metals have multiple [[#Valence]] charges
 	- Precipitation
 	- neutralization
 	- Gas formation
-- Combustion -> CxHy + O2 -> CO2 + H2O
+- Combustion -> $\ce{CxHy + O2 -> CO2 + H2O}$
 
-2Ca + O2 -> CaO
-2Ag2O -> 4Ag + O2
-Zn + Pb(NO3)2 -> Pb + Zn(NO3)2
+2Ca + O2 -> CaO}$
+$\ce{2Ag2O -> 4Ag + O2}$
+$\ce{Zn + Pb(NO3)2 -> Pb + Zn(NO3)2}$
 Neutralization
-NaOH + HBr -> H2O + NaBr
+$\ce{NaOH + HBr -> H2O + NaBr}$
 Precipitation
-Na2CO3 + CuSO4 -> Na2SO4(aq) + CuCO3(s)
+$\ce{Na2CO3 + CuSO4 -> Na2SO4(aq) + CuCO3(s)}$
 Combustion
-4Na + O2 -> 2Na2O
+$\ce{4Na + O2 -> 2Na2O}$

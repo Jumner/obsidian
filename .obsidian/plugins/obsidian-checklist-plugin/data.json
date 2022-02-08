@@ -2,7 +2,7 @@
   "todoPageName": "todo",
   "showChecked": false,
   "groupBy": "page",
-  "sortDirection": "old->new",
+  "sortDirection": "a->z",
   "ignoreFiles": "",
   "includeFiles": "",
   "lookAndFeel": "classic",
