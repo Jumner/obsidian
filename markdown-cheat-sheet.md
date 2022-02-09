@@ -117,3 +117,22 @@ H~2~O
 ### Superscript
 
 X^2^
+### LaTeX
+inline equations $x = 3$
+**Block equations**
+$$
+\begin{align}
+	\hat v = \frac{\vec v}{\left | \vec v \right |} \tag{1} \\
+	\vec v_{1}= \hat v \cdot 10 \tag{2}
+\end{align}
+$$
+### Chem
+$\ce{O2_{(g)} + 2H2_{(g)} ->[Heat] 2H2O_{(aq)}}$
+$$
+\ce{
+	\begin{align}
+			2Na_{(s)} + 2H2O_{(aq)} -> 2NaOH_{(aq)} + H2_{(g)} \tag{1} \\
+			NaCl_{(aq)} + HNO3_{(aq)} <=> NaNO3_{(aq)} + HCl_{(aq)}
+	\end{align}
+}
+$$
