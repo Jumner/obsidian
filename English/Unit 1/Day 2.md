@@ -1,4 +1,3 @@
-# asa
 Blitzkreig -> The attacking from all angles
 
 ## Elements of plot
@@ -45,27 +44,3 @@ Rhetorical devices are to prove a point
 3. Arguments
 4. Logical organization
 
-## Supertoys Questions
----
->Supertoys Last all Summer Long
-Short Story Questions
-
-1. What is a novum? Find two from the text and use quotes as support.
-
-A novum is a invention that is science fiction but is realistic. The reader can relate to the world which adds to theme.
-
-2. What does it mean to be “real”? Is David real?
-robots are so close to being human that robots question if they're "real"
-David is not "real"
-
-3. Why did Aldiss title the text “Supertoys Last all Summer Long”
-
-4. List the “top events” that happen in the story. I recommend listing4-6 events.
-	1. The bear confusing the mother on where David is.
-	2. Both of them just want to talk
-	3. The notes that David writes with teddy.
-	4. David is actually a robot
-5. What are the two settings of the text? Why are they significant?
-The two main settings of the book are Davids room and the Garden.
-
-6. Connect: Describe a controversial issue that exists both in the text and our current world. How is this issue similar? How is it different?
