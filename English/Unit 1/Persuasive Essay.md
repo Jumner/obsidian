@@ -12,16 +12,16 @@
 To convince a reader to entertain an idea without accepting it.
 ## Rhetorical Triangle
 Developed by **Aristotle**
-- ### Ethos
-	- **Credibility** of the author
-	- Vested interest
-	- How the opponents are treated
-- ### Pathos
-	- Use of **emotion** (usually sadness)
-	- Starting with pathos is the best way to get an audience
-	- Can be **overwhelming** with too much
-- ### Logos
-	- **Logic** and **reason**
+### Ethos
+- **Credibility** of the author
+- Vested interest
+- How the opponents are treated
+### Pathos
+- Use of **emotion** (usually sadness)
+- Starting with pathos is the best way to get an audience
+- Can be **overwhelming** with too much
+### Logos
+- **Logic** and **reason**
 ## Rhetorical Devices
 The cherry on top that makes it awesome.
 - Abnormal word order
