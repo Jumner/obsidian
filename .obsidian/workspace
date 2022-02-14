@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Unit 1/Satire - A Modest Proposal.md",
+            "file": "English/Unit 1/Formatting.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Unit 1/Satire - A Modest Proposal.md",
+                "file": "English/Unit 1/Formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +109,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "74d5f2220d2f898f",
   "lastOpenFiles": [
-    "English/Unit 1/Satire - A Modest Proposal.md",
+    "English/Unit 1/Formatting.md",
     "English/Unit 1/Persuasive Essay.md",
     "English/Unit 1/Day 2.md",
-    "todo/2022-2-11.md",
-    "Calculus/Vectors/Unit 1/Day 1.md",
-    "Calculus/Vectors/Unit 1/Point-Wise Naming.md",
-    "Calculus/Vectors/Unit 1/Scalers.md",
-    "Calculus/Vectors/Unit 1/Vectors.md",
-    "Physics/Unit 1 Measurement/Ratios and Proportionality.md",
-    "Physics/Unit 1 Measurement/Hard problem.md"
+    "English/Unit 1/Satire - A Modest Proposal.md",
+    "Physics/Kinematics/Kinematics.md",
+    "Physics/Kinematics/Kinematics Homework.md",
+    "Physics/Unit 1 Measurement/Pendulum Lab.md",
+    "Chem/Unit 1/Competition for Electrons.md",
+    "Chem/Unit 1/Activity Series.md",
+    "Chem/11 Review.md"
   ]
 }

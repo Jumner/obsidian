@@ -1,5 +1,6 @@
 # Redox Reaction
-includes [[#Reduction Reaction|Reduction]] and [[#Oxidation Reaction|Oxidation]] reactions
+Includes [[#Reduction Reaction|Reduction]] and [[#Oxidation Reaction|Oxidation]] reactions
+Usually requires an **acidic** or **basic** solution
 # Reduction Reaction 
 ---
 - Gains electrons (**Reduction**) (The charge is reduced)
@@ -59,8 +60,8 @@ $\ce{2Fe + 3Cl2 -> 2Fe^{3+} + 6Cl-}$
 2. $\ce{MnO4- + H2S + H+ -> S + Mn^{2+} + H2O}$
 $\ce{S^{-2} -> S + 2e-}$
 $\ce{Mn^{+7} + 5e- -> Mn^{2+}}$
-$\ce{5S^{-2} -> 5S + 10e-}$ **Not required**
-$\ce{2Mn^{+7} + 10e- -> 2Mn^{2+}}$ **Not required**
+$\ce{5S^{-2} -> 5S + 10e-}$
+$\ce{2Mn^{+7} + 10e- -> 2Mn^{2+}}$ 
 $\ce{2MnO4- + 5H2S + H+ -> 5S + 2Mn^{2+} + H2O}$
 $\ce{2MnO4- + 5H2S + 6H+ -> 5S + 2Mn^{2+} + 8H2O}$
 3. $\ce{Cr2O7 + Fe^{2+} + H+ -> Cr^{3+} + Fe^{3+} + H2O}$
@@ -71,10 +72,10 @@ $\ce{Cr2^{12+} + 6e- -> 2Cr^{3+}}$
 $\ce{Cr2O7^{2-} + 6Fe^{2+} + H+ -> 2Cr^{3+} + 6Fe^{3+} + H2O}$
 $\ce{Cr2O7^{2-} + 6Fe^{2+} + 14H+ -> 2Cr^{3+} + 6Fe^{3+} + 7H2O}$
 ## Balancing in Acidic and Basic Solutions
-Similar to [[#Balancing Redox Reaction]]
+Similar to [[#Balancing Redox Reaction]] except you add the hydrogen's or hydroxide's depending if it's an **acid** or **base** (**You will be told**).
 1. Assign [[#Oxidation Numbers]] for every **element** in the equation.
 2. Using the [[#Oxidation Numbers]], **determine** which element is **reduced** and which is **oxidized**.
-3. Write the [[#Oxidation Reaction|Oxidation]] and [[#Reduction Reaction|Reduction]] **half-reactions** (make sure atoms are balanced)
+3. Write the [[#Oxidation Reaction|Oxidation]] and [[#Reduction Reaction|Reduction]] **half-reactions** (**Write full compounds**)
 4. **Multiply** the half-reactions by the appropriate coefficients to equalize the loss and gain of electrons.
 5. If the solution is **acidic**, add **$\ce{H+}$** to balance the charge. If the solution is **basic** add **$\ce{OH-}$** to balance the charge.
 6. Add **$\ce{H2O}$** to balance the **Hydrogen**
@@ -91,6 +92,15 @@ $\ce{2MnO4- + 5SO3^{2-} + 6H+ -> 2Mn^{2+} + 5SO4^{2-}}$
 6H -> 0H
 $\ce{2MnO4- + 5SO3^{2-} + 6H+ -> 2Mn^{2+} + 5SO4^{2-} + 3H2O}$
 23 -> 23 **Check**
+**Teachers way** (**Not required**)
+Ox: $\ce{SO3^{2-} -> SO4^{2-} + 2e-}$
+Red: $\ce{MnO4- + 5e- -> Mn^{2+}}$
+Ox: $\ce{SO3^{2-} -> SO4^{2-} + 2e- + 2H+}$
+Red: $\ce{MnO4- + 5e- + 8H+ -> Mn^{2+}}$
+Ox: $\ce{SO3^{2-} + H2O -> SO4^{2-} + 2e- + 2H+}$ x 5
+Red: $\ce{MnO4- + 5e- + 8H+ -> Mn^{2+} + 4H2O}$ x 2
+$\ce{2MnO4- + 5SO3^{2-} + 6H+ -> 2Mn^{2+} + 5SO4^{2-} + 3H2O}$
+
 
 2. $\ce{MnO4- + CN- -> MnO2 + CNO-}$ (**Basic**)
 Ox: $\ce{CN- -> CN+ + 2e-}$
@@ -101,3 +111,7 @@ $\ce{2MnO4- + 3CN- -> 2MnO2 + 3CNO- + 2OH-}$
 0H -> 2H
 $\ce{2MnO4- + 3CN- + H2O -> 2MnO2 + 3CNO- + 2OH-}$
 9O -> 9O **Check**
+**Isn't it technically an acid question?**: **Yes, but actually no** Do as the question says
+$\ce{2MnO4- + 3CN- + H2O -> 2MnO2 + 3CNO- + 2OH-}$
+$\ce{2MnO4- + 3CN- + H2O + 2H+ -> 2MnO2 + 3CNO- + 2H2O}$
+$\ce{2MnO4- + 3CN- + 2H+ -> 2MnO2 + 3CNO- + H2O}$
