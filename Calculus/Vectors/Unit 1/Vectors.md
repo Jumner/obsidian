@@ -8,7 +8,7 @@ Represented by a single number
 ## Examples
 > Velocity, displacement, force, weight
 ## Geometry
-Geometrically, they can be expressed as a line segment with an arrow. This is called a **directed** line segment.
+Geometrically, they can be expressed as a line segment with an arrow. This is called a **directed** line segment. ^61c47d
 ## Notation
 Vectors are written with an arrow over top
 $$\overrightarrow {AB} \text{ or } \vec{v}$$
