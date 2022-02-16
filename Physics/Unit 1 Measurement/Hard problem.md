@@ -1,3 +1,4 @@
+#physics-unit-1 
 # Proxima Centauri
 > Proxima Centauri is 4.243 light years away. A ship, initially at rest, accelerates at $9.80m/s^2$ towards Proxima Centauri up to a top speed of 'c' How long will the trip take?
 

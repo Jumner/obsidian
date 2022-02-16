@@ -1,3 +1,4 @@
+#kinematics
 # Kinematics
 ---
 The study of **Movement**

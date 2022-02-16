@@ -1,3 +1,5 @@
+#vectors 
+#calculus-unit-2
 # Algebraic [[Vectors]]
 ---
 They are like normal [[Vectors|Geometric Vectors]] and still have [[Vectors#Direction|Direction]] and [[Vectors#Magnitude|Magnitude]]

@@ -1,3 +1,4 @@
+#chem-unit-1 
 # Intro activity - Justin Frank
 ---
 Hey, I'm **Justin** (he/him).

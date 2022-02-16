@@ -1,3 +1,5 @@
+#vectors 
+#calculus-unit-1 
 # Vector
 Vectors have both [[#Direction]] and [[#Magnitude]]. 
 ## Direction
