@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "74d5f2220d2f898f",
+        "id": "ac6c8e6bbfa551d7",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aeb006fb29ae8ca4",
@@ -108,13 +107,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74d5f2220d2f898f",
+  "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
+    "English/Unit 1/6+1 Writing.md",
     "Calculus/Vectors/Unit 1/Random helpers.md",
     "Calculus/Vectors/Unit 1/Vectors.md",
     "Chem/Unit 1/Activity Series.md",
     "Chem/11 Review.md",
-    "English/Unit 1/6+1 Writing.md",
     "Physics/Kinematics/Kinematics.md",
     "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
     "Calculus/Vectors/Unit 1/Scalers.md",
