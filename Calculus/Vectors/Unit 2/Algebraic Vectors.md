@@ -13,6 +13,30 @@ Can be represented on a plane
 Angle $\theta$ is measured **counter clockwise** from the [[#X|X Axis]] to the vector
 All 2d Vectors can be represented by a linear combination of the [[#Base vectors]]
 $$\vec{v} = (1,2) = \hat{i} \cdot 1 + \hat{j} \cdot2$$
+### Three Dimensional Vector
+$\mathbb{R}^2$ Space (**3 real numbers**)
+Can be represented in 3d space as an ordered triple
+All 3d vectors can be represented by a linear combination of all 3 [[#Base vectors]]
+#### Finding the [[Vectors#Magnitude|Magnitude]]
+The pythagorean theorem extends to 3d.
+$\vec{v} = (x,y,z)$
+$\therefore |\vec{v}| = \sqrt{x^{2}+ y^{2}+ z^2}$ 
+#### Finding the [[Vectors#Direction|Direction]]
+These are called **Direction angles**
+$\alpha$ -> angle between $\hat{i}$ and $\vec{v}$
+$\beta$ -> angle between $\hat{j}$ and $\vec{v}$
+$\gamma$ -> angle between $\hat{k}$ and $\vec{v}$
+##### Derivation
+$\cos{\alpha} = \frac{a}{|\vec{v}|}$
+$\cos{\beta} = \frac{b}{|\vec{v}|}$
+$\cos{\gamma} = \frac{c}{|\vec{v}|}$
+This makes it super simple with unit vectors
+$\alpha = cos^{-1}a$ etc...
+$\hat{v} = (cos{\alpha}, cos{\beta}, cos{\gamma})$
+$cos^{2{\alpha}}= (cos{\alpha})^2$ 
+$cos^{2}{\alpha} + cos^{2}{\beta} + cos^{2}{\gamma} = 1$ (unit vector not needed)
+
+
 ## Components
 The components of a [[Vectors|Vector]] are what consists of the **coordinates**
 The components of Vector $\vec{v} = [0,0]$ 

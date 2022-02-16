@@ -27,7 +27,7 @@ Developed by **Aristotle**
 - **Cannot convince** alone but can add
 - **Listening** to their points helps heavily
 ## Rhetorical Devices
-The cherry on top that makes it awesome.
+The cherries on top that makes it awesome.
 - Abnormal word order
 - allegory
 - allusion
@@ -40,6 +40,7 @@ The cherry on top that makes it awesome.
 - pun / irony
 - repetition
 ## Internal strategies
+The **longer devices**. Rarely just one sentence.
 The **structure** of the essay
 - Analogy (long)
 - Cause and effect

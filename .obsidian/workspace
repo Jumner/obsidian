@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"426.66 - 39.2\"",
+                "query": "internal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,14 +115,14 @@
   "active": "74d5f2220d2f898f",
   "lastOpenFiles": [
     "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
-    "English/Unit 1/Formatting.md",
+    "English/Unit 1/6+1 Writing.md",
     "English/Unit 1/Persuasive Essay.md",
+    "English/Unit 1/Formatting.md",
     "English/Unit 1/Day 2.md",
-    "English/Unit 1/Satire - A Modest Proposal.md",
-    "Physics/Kinematics/Kinematics.md",
-    "Physics/Kinematics/Kinematics Homework.md",
-    "Physics/Unit 1 Measurement/Pendulum Lab.md",
+    "Chem/Communication Marks.md",
+    "Chem/Unit 1/Reduction Table.md",
     "Chem/Unit 1/Competition for Electrons.md",
-    "Chem/Unit 1/Activity Series.md"
+    "Chem/Unit 1/Activity Series.md",
+    "English/Unit 1/Satire - A Modest Proposal.md"
   ]
 }
