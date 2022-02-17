@@ -7,8 +7,12 @@
         "id": "ac6c8e6bbfa551d7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "internal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aeb006fb29ae8ca4",
@@ -65,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +116,15 @@
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
+    "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
+    "Calculus/Vectors/Unit 1/Vectors.md",
+    "Physics/Kinematics/Kinematics.md",
+    "English/Unit 1/Living like Weasels.md",
+    "English/Unit 1/Persuasive Essay.md",
     "English/Unit 1/6+1 Writing.md",
     "Calculus/Vectors/Unit 1/Random helpers.md",
-    "Calculus/Vectors/Unit 1/Vectors.md",
     "Chem/Unit 1/Activity Series.md",
     "Chem/11 Review.md",
-    "Physics/Kinematics/Kinematics.md",
-    "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
-    "Calculus/Vectors/Unit 1/Scalers.md",
-    "Calculus/Vectors/Unit 1/Point-Wise Naming.md",
-    "Chem/Communication Marks.md"
+    "Calculus/Vectors/Unit 1/Scalers.md"
   ]
 }

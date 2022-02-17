@@ -57,6 +57,21 @@ $|\vec{v}| = |\overrightarrow{0p}| = \sqrt{x^{2} + y^{2}}$
 #### [[Vectors#Direction|Angle]] $\theta$ 
 $$tan{\theta} = \frac{y}{x} \therefore \theta = tan^{-1}(\frac{y}{x})$$
 
+## Equal Vectors
+[[#Algebraic Vectors]] are equal when their [[#Components]] are equal
+## Adding and Subtracting [[#Algebraic Vectors]]
+Adding and subtracting [[#Algebraic Vectors]] is done by adding or subtracting the [[#Components]].
+$\vec{u} = (4,6) \text{ and } \vec{v} = (3,-4)$
+$\vec{u} + \vec{v} = (4+3, 6+-4)= (7, 2)$
+### [[Random helpers#Associativity|Associativity]] -> True
+### [[Random helpers#Commutativity|Commutativity]] -> True
+## Multiplying and Dividing by [[Scalers#Scaler|Scalers]] 
+When multiplying and dividing by a [[Scalers#Scaler|Scaler]], the [[#Components]] are scaled.
+$\vec{v} = (1, 2)$
+$5\vec{u} = (5\cdot1, 5\cdot2)$
+### [[Random helpers#Associativity|Associativity]] -> True
+### [[Random helpers#Distributivity|Distributivity]] -> True
+### [[Random helpers#Commutativity|Commutativity]] -> True
 # Base vectors
 ## X
 The **X** (**$\hat{i}$**) [[Vectors#Unit vector|Unit Vector]]  points towards you
