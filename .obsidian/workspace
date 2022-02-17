@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Unit 1/Formatting.md",
+            "file": "ma/Essay 2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Unit 1/Formatting.md",
+                "file": "ma/Essay 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
+    "ma/Essay 2.md",
+    "Calculus/Vectors/Unit 2/Collinear Points and Vectors.md",
+    "Untitled.md",
     "English/Unit 1/Formatting.md",
     "Physics/Kinematics/Equations of Motion.md",
     "Physics/Kinematics/Kinematics.md",
     "Physics/Kinematics/Chase and Collision.md",
     "Chem/Unit 1/Reduction Potential.md",
     "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
-    "Calculus/Vectors/Unit 1/Vectors.md",
-    "English/Unit 1/Living like Weasels.md",
-    "English/Unit 1/Persuasive Essay.md",
-    "English/Unit 1/6+1 Writing.md"
+    "Calculus/Vectors/Unit 1/Vectors.md"
   ]
 }
