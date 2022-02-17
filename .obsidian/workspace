@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Kinematics/Equations of Motion.md",
+            "file": "English/Unit 1/Formatting.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Kinematics/Equations of Motion.md",
+                "file": "English/Unit 1/Formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +109,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
+    "English/Unit 1/Formatting.md",
     "Physics/Kinematics/Equations of Motion.md",
     "Physics/Kinematics/Kinematics.md",
     "Physics/Kinematics/Chase and Collision.md",
@@ -121,7 +123,6 @@
     "Calculus/Vectors/Unit 1/Vectors.md",
     "English/Unit 1/Living like Weasels.md",
     "English/Unit 1/Persuasive Essay.md",
-    "English/Unit 1/6+1 Writing.md",
-    "Calculus/Vectors/Unit 1/Random helpers.md"
+    "English/Unit 1/6+1 Writing.md"
   ]
 }

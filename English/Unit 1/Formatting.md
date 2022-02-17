@@ -16,3 +16,14 @@ Titles are italicized unless they "**cannot stand alone**". So they must be surr
 - Punctuation **after** brackets
 - Use author in **intro**
 - Avoid person says "quote" **Marry the quote to the text**
+
+# Paragraph Structure
+---
+1. Topic sentence (**connect** question to other topic)
+2. Point
+3. Proof
+4. Analyze
+5. Point
+6. Proof
+7. Analyze
+8. Conclusion (Copy paste **Topic Sentence**)
