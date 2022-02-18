@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ma/Essay 2.md",
-            "mode": "source",
+            "file": "Physics/Kinematics/Equations of Motion.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ma/Essay 2.md",
+                "file": "Physics/Kinematics/Equations of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,24 +105,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
-    "ma/Essay 2.md",
-    "Calculus/Vectors/Unit 2/Collinear Points and Vectors.md",
-    "Untitled.md",
-    "English/Unit 1/Formatting.md",
     "Physics/Kinematics/Equations of Motion.md",
-    "Physics/Kinematics/Kinematics.md",
-    "Physics/Kinematics/Chase and Collision.md",
-    "Chem/Unit 1/Reduction Potential.md",
     "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
-    "Calculus/Vectors/Unit 1/Vectors.md"
+    "Calculus/Vectors/Unit 2/Collinear Points and Vectors.md",
+    "English/Unit 1/Satire - A Modest Proposal.md",
+    "Chem/Unit 1/Reduction Table.md",
+    "Calculus/Vectors/Unit 1/Vectors.md",
+    "Calculus/Vectors/Unit 1/Scalers.md",
+    "Calculus/Vectors/Unit 1/Random helpers.md",
+    "Calculus/Vectors/Unit 1/Point-Wise Naming.md",
+    "Chem/Unit 1/Reduction Potential.md"
   ]
 }

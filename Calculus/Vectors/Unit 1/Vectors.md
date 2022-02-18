@@ -2,24 +2,35 @@
 #calculus-unit-1 
 # Vector
 Vectors have both [[#Direction]] and [[#Magnitude]]. 
+## Examples
+> Velocity, displacement, force, weight
 ## Direction
 Where the [[#Vector]] points to.
+### True bearing
+> Measured from due north. Measured going counter clockwise
+### Conventional Bearing
+> Angle between 2 closest marks. Example, N 30 deg E -> Start at north go 30 degrees towards east
+### Tail to tail
+> The angle between 2 vector placed tail to tail
+> This value is negative if the vector is clockwise relative to the other vector
 ## Magnitude
 The length of the vector. Independent of [[#Direction]]
 Represented by a single number
-## Examples
-> Velocity, displacement, force, weight
+## Equal / Equivalent vectors
+Vectors are equal when their [[#Direction|Directions]] and [[#Magnitude|Magnitudes]] are equal
 ## Geometry
 Geometrically, they can be expressed as a line segment with an arrow. This is called a **directed** line segment. ^61c47d
 ## Notation
 Vectors are written with an arrow over top
 $$\overrightarrow {AB} \text{ or } \vec{v}$$
 ### Magnitude
-The absolute of the vector
+The **absolute** of the vector. The length
 $$\left | \vec{v} \right |$$
 ### Direction
 What direction the vector is pointed.
+Notated with $\theta\degree$   
 ### Parallel vectors
+When 2 vectors are **Parallel** or **Collinear**
 $$\vec v\, \textbackslash\textbackslash\, \vec u$$
 ### Unit vectors
 Unit vectors are notated with a hat
@@ -28,15 +39,6 @@ Called **v hat**
 > Note that a zero vector would require dividing by zero
 > This is why [[#Direction]]  is not defined
 
-#### True bearing
-> Measured from due north. Measured going counter clockwise
-#### Conventional Bearing
-> Angle between 2 closest marks. Example, N 30 deg E -> Start at north go 30 degrees towards east
-#### Tail to tail
-> The angle between 2 vector placed tail to tail
-> This value is negative if the vector is clockwise relative to the other vector
-## Equal / Equivilent vectors
-Vectors are equal when their [[#Direction|Directions]] and [[#Magnitude|Magnitudes]] are equal
 ## Opposite vectors
 Vectors are opposite when their [[#Direction|Directions]] are opposite and their [[#Magnitude|Magnitudes]] are equal
 ## Parallel / Collinear Vectors

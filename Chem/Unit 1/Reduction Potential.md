@@ -2,9 +2,9 @@
 # Electrochemical Cells
 ---
 ## Wet Cells
-Use a **liquid electrolyte** to allow the flow of [[electrons]]
+Use a **liquid electrolyte** to allow the flow of [[Electrons]]
 ## Dry Cells
-Use a **paste** to allow the flow of [[electrons]]
+Use a **paste** to allow the flow of [[Electrons]]
 ### Examples
 > Regular batteries (alkaline -> basic),
 ---
