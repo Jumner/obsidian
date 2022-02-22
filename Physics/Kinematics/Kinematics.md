@@ -39,7 +39,7 @@ Uses Vector [[#Position|Notation]]
 ---
 **Change in position**
 Uses Vector [[#Displacement|Notation]]
-- $\Delta \vec{d_{t}} = \Delta \vec{d_{1}} + \Delta \vec{d_{2}} + ...$  
+- $\Delta \vec{d_{T}} = \Delta \vec{d_{1}} + \Delta \vec{d_{2}} + ...$  
 - $\Delta \vec{d} = \vec{d_{2}} - \vec{d_{1}}$ 
 - $\vec{d_{1}} = 6.0Km [W]$
 - $\vec{d_{2}}= 4.0Km[E]$
@@ -51,7 +51,7 @@ Final [[#Position]]: $\vec{d_{2}}= \vec{d_{1}} + \Delta \vec{d_{1}}$
 ---
 **Change in [[#Displacement]]** over **Change in time**
 Uses vector [[#Velocity|Notation]]
-$$\vec{v} = \frac{\Delta \vec{d_{T}}}{\Delta t}$$
+$$\vec{v} = \frac{\Delta \vec{d}}{\Delta t}$$
 ### Average Velocity
 $$\vec{v}_{av} = \frac{\Delta \vec{d_T}}{\Delta t}$$
 ## Acceleration

@@ -13,8 +13,8 @@
 $v:\vec, d:\Delta, ti:\times$
 $\mathbf{R}$ 
 $\Delta\vec{d} = \frac{\vec{v_{2}}^{2}-\vec{v_{1}}^{2}}{2\vec{a}}$ 
-
-```geogebra
-appName: classic
-base64: ""
-```
+$\Delta d= (\frac{\vec{v_1}+\vec{v_2}}{2})\Delta t$ 
+$\vec{v_{2}}=\vec{v_1}+\vec{a}\Delta t$ 
+$\Delta t = \frac{\vec{v_{2}}}{\vec{v_{1}}+\vec{a}}$  
+$\Delta \vec{d} = \frac{\vec{v_{1}}+\vec{v_{2}}}{2}\frac{\vec{v_2}}{\vec{v_1}+\vec{a}}$
+$\Delta\vec{d}=\frac{\vec{v_2}^2+\vec{v_1}\vec{v_2}}{2\vec{v_1}+\vec{a}}$
