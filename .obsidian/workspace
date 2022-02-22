@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Kinematics/Chase and Collision.md",
-            "mode": "preview",
+            "file": "Chem/Unit 1/Corrosion Case Study.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "half reactio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Kinematics/Chase and Collision.md",
+                "file": "Chem/Unit 1/Corrosion Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
+    "Chem/Unit 1/Corrosion Case Study.md",
+    "Chem/Unit 1/Half Reaction Method.md",
+    "Chem/Unit 1/Redox.md",
+    "Chem/Unit 1/Competition for Electrons.md",
+    "Chem/Unit 1/Electrochemical Cells.md",
+    "Chem/11 Review.md",
+    "Chem/Communication Marks.md",
     "Physics/Kinematics/Chase and Collision.md",
     "Physics/Kinematics/Equations of Motion.md",
-    "Physics/Kinematics/Kinematics.md",
-    "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
-    "Calculus/Vectors/Unit 2/Collinear Points and Vectors.md",
-    "English/Unit 1/Satire - A Modest Proposal.md",
-    "Chem/Unit 1/Reduction Table.md",
-    "Calculus/Vectors/Unit 1/Vectors.md",
-    "Calculus/Vectors/Unit 1/Scalers.md",
-    "Calculus/Vectors/Unit 1/Random helpers.md"
+    "Physics/Kinematics/Kinematics.md"
   ]
 }

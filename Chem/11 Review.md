@@ -60,4 +60,10 @@ $\ce{NaOH + HBr -> H2O + NaBr}$
 Precipitation
 $\ce{Na2CO3 + CuSO4 -> Na2SO4(aq) + CuCO3(s)}$
 Combustion
+
+# STP
+---
+Standard temperature and pressure
+25c
+1atm (101.3kPa)
 $\ce{4Na + O2 -> 2Na2O}$
