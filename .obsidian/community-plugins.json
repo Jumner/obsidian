@@ -3,13 +3,12 @@
   "better-word-count",
   "calendar",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-emoji-toolbar",
-  "obsidian-git",
   "obsidian-citation-plugin",
   "obsidian-checklist-plugin",
   "url-into-selection",
   "obsidian-icons-plugin",
   "obsidian-footnotes",
   "quick-latex",
-  "obsidian-charts"
+  "obsidian-sample-plugin",
+  "geogebra-obsidian"
 ]

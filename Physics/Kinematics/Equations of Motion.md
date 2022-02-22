@@ -13,3 +13,8 @@
 $v:\vec, d:\Delta, ti:\times$
 $\mathbf{R}$ 
 $\Delta\vec{d} = \frac{\vec{v_{2}}^{2}-\vec{v_{1}}^{2}}{2\vec{a}}$ 
+
+```geogebra
+appName: classic
+base64: ""
+```
