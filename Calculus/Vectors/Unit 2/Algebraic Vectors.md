@@ -24,7 +24,7 @@ $$\vec{v} = (1, 2, 3) = \hat{i}\cdot1 + \hat{j}\cdot2 + \hat{k}\cdot3$$
 The pythagorean theorem extends to 3d.
 $\vec{v} = (x,y,z)$
 $\therefore |\vec{v}| = \sqrt{x^{2}+ y^{2}+ z^2}$ 
-#### Finding the [[Vectors#Direction|Direction]]
+#### [[Vectors#Direction|Direction]] Angles
 These are called **Direction angles** and are not the same as [[Euler Angles]]
 $\alpha$ -> angle between $\hat{i}$ and $\vec{v}$
 $\beta$ -> angle between $\hat{j}$ and $\vec{v}$

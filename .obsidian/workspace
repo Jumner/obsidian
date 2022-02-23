@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Unit 1/6+1 Writing.md",
-            "mode": "preview",
+            "file": "Calculus/Vectors/Unit 2/Dot Product.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "voltage potential",
+                "query": "\\alpha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Unit 1/6+1 Writing.md",
+                "file": "Calculus/Vectors/Unit 2/Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
+    "Calculus/Vectors/Unit 2/Dot Product.md",
+    "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
     "English/Unit 1/6+1 Writing.md",
     "English/Unit 1/Rhetorical Device.md",
     "English/Unit 1/Internal Strategies.md",
@@ -121,8 +123,6 @@
     "English/Unit 1/Practice Test.md",
     "Physics/Kinematics/Chase and Collision.md",
     "Chem/Unit 1 Electrochemistry/Electrolytic Cells.md",
-    "Calculus/Vectors/Unit 2/Dot Product.md",
-    "English/Unit 1/Plot Elements.md",
-    "English/Unit 1/Persuasive Essay.md"
+    "English/Unit 1/Plot Elements.md"
   ]
 }
