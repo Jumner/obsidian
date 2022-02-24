@@ -31,4 +31,12 @@ Can be effected by **Activation Energy**
 Usually about **0.5V**
 ## Electroplating
 Using [[Electrolytic Cells|Electrolysis]] to plate a **conductive material** in a metal.
-
+### Equations
+Steps:
+1. Reduction half reaction
+2. Coulombs transferred (c): ($Q = I \cdot t$) (Current x Time)
+3. Coulombs to Mole: ($Q = nF$) ($n = \frac{Q}{F}$)
+4. Mole Ratio
+$\text{nAu} = 0.1555 \frac{\text{1 mol Au}}{\text{3 mol }\ce{e-}}$ 
+Calculate the mass: ($m = nM$)
+F = $96485 c/mol$ 
