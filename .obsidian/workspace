@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus/Vectors/Unit 2/Cross Product.md",
+            "file": "English/Unit 1/ggb Testing.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\alpha",
+                "query": "ggb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aeb006fb29ae8ca4",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Vectors/Unit 2/Cross Product.md",
+                "file": "English/Unit 1/ggb Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +111,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
-    "Calculus/Vectors/Unit 2/Cross Product.md",
-    "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
-    "Calculus/Vectors/Unit 2/Dot Product.md",
-    "Calculus/Vectors/Unit 2/Collinear Points and Vectors.md",
-    "Physics/Kinematics/Kinematics.md",
-    "Physics/Vectors/Vector Diagrams.md",
-    "Chem/Unit 1 Electrochemistry/Electrolytic Cells.md",
-    "Chem/Unit 1 Electrochemistry/Electrochemical Cells.md",
+    "English/Unit 1/ggb Testing.md",
+    "Calculus/Vectors/Unit 2/Projection.md",
+    "Calculus/Vectors/Unit 2/Perpendicular Vectors.md",
+    "English/Unit 1/Rhetorical Device.md",
+    "English/Unit 1/Internal Strategies.md",
+    "English/Unit 1/Formatting.md",
     "English/Unit 1/6+1 Writing.md",
-    "English/Unit 1/Rhetorical Device.md"
+    "Chem/Unit 2 Structure and Properties/Structure and Properties Equations.md",
+    "Chem/Unit 2 Structure and Properties/Photon.md",
+    "Chem/Unit 2 Structure and Properties/Bohr Model.md"
   ]
 }

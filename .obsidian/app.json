@@ -46,5 +46,7 @@
   "foldIndent": true,
   "spellcheckLanguages": [
     "en-CA"
-  ]
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }
