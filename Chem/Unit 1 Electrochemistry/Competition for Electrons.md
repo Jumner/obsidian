@@ -3,8 +3,8 @@
 ---
 A [[Redox]] reaction can be viewed as a [[#Competition for Electrons]].
 $$\ce{X + Y -> X+ + Y-}$$
-$X$ is being oxidized to $\ce{X-}$
-$Y$ is being reduced to $\ce{Y+}$
+$X$ is being oxidized to $\ce{X+}$ 
+$Y$ is being reduced to $\ce{Y-}$
 $\therefore Y$ is a better [[#Electron Competitor]] than $X$
 
 ---
@@ -16,7 +16,7 @@ There is an activity series to how well a chemical [[#Competition for Electrons|
 
 ---
 $$\ce{K + NaCl -> KCl + Na}$$
-Potassium was oxidized, lost electrons to Sodium. $\therefore$ **Sodium** is a better [[#Electron Competitor]] than Potassium which makes Potassium more reactive.
+Potassium was **oxidized**, lost [[Electrons]] to Sodium. $\therefore$ **Sodium** is a better [[#Electron Competitor]] than Potassium which makes Potassium **more reactive**.
 
 ## Examples
 ---

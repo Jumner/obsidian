@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Unit 1/ggb Testing.md",
+            "file": "Chem/Unit 1 Electrochemistry/Electrochemical Cells.md",
             "mode": "source",
             "source": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aeb006fb29ae8ca4",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Unit 1/ggb Testing.md",
+                "file": "Chem/Unit 1 Electrochemistry/Electrochemical Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,15 +113,15 @@
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
+    "Chem/Unit 1 Electrochemistry/Electrochemical Cells.md",
+    "Chem/Unit 1 Electrochemistry/Electrolytic Cells.md",
+    "Chem/Unit 1 Electrochemistry/Corrosion Case Study.md",
+    "Chem/Unit 1 Electrochemistry/Concentration.md",
+    "Chem/Unit 1 Electrochemistry/Half Reaction Method.md",
+    "Chem/Unit 1 Electrochemistry/Redox.md",
+    "Chem/Unit 1 Electrochemistry/Competition for Electrons.md",
+    "Chem/Unit 1 Electrochemistry/Activity Series.md",
     "English/Unit 1/ggb Testing.md",
-    "Calculus/Vectors/Unit 2/Projection.md",
-    "Calculus/Vectors/Unit 2/Perpendicular Vectors.md",
-    "English/Unit 1/Rhetorical Device.md",
-    "English/Unit 1/Internal Strategies.md",
-    "English/Unit 1/Formatting.md",
-    "English/Unit 1/6+1 Writing.md",
-    "Chem/Unit 2 Structure and Properties/Structure and Properties Equations.md",
-    "Chem/Unit 2 Structure and Properties/Photon.md",
-    "Chem/Unit 2 Structure and Properties/Bohr Model.md"
+    "Calculus/Vectors/Unit 2/Projection.md"
   ]
 }

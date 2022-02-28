@@ -19,6 +19,9 @@ Single line **|** -> phase or **state change**
 Double line **||** -> **salt bridge** / **porous barrier**
 Assume concentrations are 1 Molar (1mol/L)
 **Anode** on the left, **Cathode** on the right (Internet may be different)
+### Example
+$\ce{Na+ | Na || Li | Li+}$
+$\ce{H+ | H2 | Pt || O^{2-} | O2 | Pt}$
 ## Half Cell Potentials
 The **voltage** is the difference between the reduction potentials of the two materials.
 ### Hydrogen Half Cell
@@ -39,4 +42,4 @@ An **increase** of $\ce{Zn_{(s)}}$ or a **decrease** of $\ce{Cu_{(s)}}$ will **n
 A **increase** of $\ce{Cu^{2+}}$ or a **decrease** of $\ce{Zn^{2+}}$ will **increase** the **voltage**.
 
 ## Electrolytic Cells
-Electrolytic cells are not **Spontaneous**. A voltage must be applied between them to force [[Electrons]] to flow from the [[Redox#Reducing agent|Reducing Agent]] to the [[Redox#Oxidizing agent|Oxidizing Agent]]. If these are not **forced**, **the reaction does not occur**
+[[Electrolytic Cells]] are not **Spontaneous**. A voltage must be applied between them to force [[Electrons]] to flow from the [[Redox#Reducing agent|Reducing Agent]] to the [[Redox#Oxidizing agent|Oxidizing Agent]]. If these are not **forced**, **the reaction does not occur**

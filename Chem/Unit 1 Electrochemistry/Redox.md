@@ -4,16 +4,16 @@ Includes [[#Reduction Reaction|Reduction]] and [[#Oxidation Reaction|Oxidation]]
 Usually requires an **acidic** or **basic** solution
 # Reduction Reaction 
 ---
-- Gains electrons (**Reduction**) (The charge is reduced)
+- Gains electrons (**Reduction**) (The **charge is reduced**)
 ## Examples
-- $\ce{SnO2 + C -> Sn + CO2}$
+- $\ce{SnO2 + C -> Sn + CO2}$ Tin is **Reduced**
 ## Reducing agent
-- The chemical that is causing the reduction. If something is being reduced, it is usually the [[#Oxidizing agent]]
+- The chemical that is **causing the reduction**. If **something is being reduced**, it is usually the [[#Oxidizing agent]]
 # Oxidation Reaction
 ---
-- Loses electrons (**Oxidation**) (Gains charge)
+- Loses electrons (**Oxidation**) (**Gains charge**)
 ## Oxidizing agent
-- The chemical that is causing the oxidation. If something is being oxidized, it is usually the [[#Reducing agent]] 
+- The chemical that is **causing the oxidation**. If **something is being oxidized**, it is usually the [[#Reducing agent]] 
 # Oxidation Numbers
 ---
 | Atom/Ion                    | Oxidation number | Examples                        |
@@ -25,7 +25,7 @@ Usually requires an **acidic** or **basic** solution
 | Oxygen in peroxides         | -1               | $\ce{H2O2}$                     |
 | Monatomic Ions              | Charge of ion    | In $\ce{FeBr2}$, $\ce{Fe^2+}$ |
 
-## Rule #2  the sum of the oxidation numbers for the leements in a polyatomic ion equals the charge on the ion
+## Rule #2  the sum of the oxidation numbers for the elements in a polyatomic ion equals the charge on the ion
 $\ce{H3PO2 + Cr2O7^2- -> H3PO4 + Cr^3+}$
 **P is oxidized, losing electrons**
 **Cr is reduced, gaining electrons**
