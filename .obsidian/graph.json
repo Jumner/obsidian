@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "- path:todo - path:Archive",
   "showTags": true,
   "showAttachments": false,
@@ -61,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.2854858083337792,
-  "close": false
+  "close": true
 }

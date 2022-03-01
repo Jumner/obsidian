@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Unit 1/Rhetorical Device.md",
+            "file": "Physics/Vectors/Projectile Motion.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Unit 1/Rhetorical Device.md",
+                "file": "Physics/Vectors/Projectile Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
+    "Physics/Vectors/Projectile Motion.md",
+    "Physics/Vectors/Relative Motion.md",
+    "Physics/Vectors/Vector Diagrams.md",
     "English/Unit 1/Rhetorical Device.md",
     "Calculus/Vectors/ggb Testing.md",
     "Calculus/Vectors/Unit 2/Finding The Area.md",
     "Calculus/Vectors/Unit 2/Projection.md",
     "Calculus/Vectors/Unit 2/Cross Product.md",
     "English/Unit 2 Literary Critical Theory/Lit Crit.md",
-    "Pasted image 20220105124344.png",
-    "Physics/Vectors/Relative Motion.md",
-    "Physics/Vectors/Vector Diagrams.md",
-    "Chem/Unit 1 Electrochemistry/Electrochemical Cells.md"
+    "Pasted image 20220105124344.png"
   ]
 }
