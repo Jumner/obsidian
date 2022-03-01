@@ -24,6 +24,8 @@ Might not directly connect to the thesis.
 > An indirect **reference** to a well-known event, person, thing, place, or quality.  By suggestion, it may enhance the significance of a poetic image or prose passage.
 ### Analogy
 >Helps the reader understand **something unfamiliar** by comparing it to something well known. An extended metaphor.
+### Anaphora
+> Repetition of a word across multiple sentences
 ### Denotation
 >Denotation is the thing or situation to which the word specifically refers (the dictionary definition); Connotation is the associated meanings it implies or suggests.
 >Ex (Home denotes the place where a person lives, but connotes intimacy, privacy, and coziness).

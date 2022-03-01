@@ -18,7 +18,10 @@ $\vec{a}\times\vec{b}$
 Make the rock sign with your left hand.
 your two middle fingers are $\vec{a}$ and your index and pinky fingers are $\vec{b}$. Of course, your thumb is $\vec{a}\times\vec{b}$.
 ## Finding the [[Cross Product]] of [[Algebraic Vectors]]
-Result is a Vector
+Result is a **Vector**
+### 2D
+
+### 3D
 $\vec{a} = (a_{1}, a_{2}, a_{3})$
 $\vec{b} = (b_{1}, b_{2}, b_{3})$
 $\vec{a}\times\vec{b} = (a_{2}b_{3}-a_{3}b_{2}, a_{3},b_{1}-a_{1}b_{3}, a_{1}b_{2}-a_{2}b_{1})$
