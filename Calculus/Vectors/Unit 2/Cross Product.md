@@ -1,5 +1,5 @@
 # Cross Product
-The second [[Vectors|Vector]] multiplication besides [[Dot Product]]. Unlike [[Dot Product]] ([[Scalers|Scaler]], the **product** of [[Cross Product]] is another **vector**.
+The second [[Vectors|Vector]] multiplication besides [[Dot Product]]. Unlike [[Dot Product]] which results in a [[Scalers|Scaler]], the **product** of [[Cross Product]] is another **vector**.
 Also called the **Vector Product**.
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.theappguruz.com%2Fapp%2Fuploads%2F2018%2F06%2Fvector-cross-product.gif&amp;f=1&amp;nofb=1" alt="How to Create Homing Missiles in game : Unity Tutorial"/>
 ## Notation
@@ -25,7 +25,5 @@ Result is a **Vector**
 $\vec{a} = (a_{1}, a_{2}, a_{3})$
 $\vec{b} = (b_{1}, b_{2}, b_{3})$
 $\vec{a}\times\vec{b} = (a_{2}b_{3}-a_{3}b_{2}, a_{3},b_{1}-a_{1}b_{3}, a_{1}b_{2}-a_{2}b_{1})$
-| | z | x | y |
-| --- | --- | --- | --- |
-| $a_{1}$ | $a_{2}$ | $a_{3}$ | $a_{1}$ |
-| $b_{1}$ | $b_{2}$ | $b_{3}$ | $b_{1}$| 
+
+![[Pasted image 20220302105615.png]]

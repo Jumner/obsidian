@@ -9,7 +9,7 @@ Where the [[#Vector]] points to.
 ### True bearing
 > Measured from due north. Measured going counter clockwise
 ### Conventional Bearing
-> Angle between 2 closest marks. Example, N 30 deg E -> Start at north go 30 degrees towards east
+> Angle between 2 closest marks. Example, N 30$\degree$ E -> Start at north go 30 degrees towards east
 ### Tail to tail
 > The angle between 2 vector placed tail to tail
 > This value is negative if the vector is clockwise relative to the other vector
@@ -49,7 +49,7 @@ The zero vector has a [[#Magnitude]] of **zero** and **Not Defined** [[#Directio
 ## Unit vector
 A vector with a [[#Magnitude]] of **1**. The [[#Direction]] is **not important**
 Every [[#Vector]] has a [[#Unit vector]] besides a [[#Zero vector]]. See [[#Unit vectors|Explanation]]
-[[#Unit vectors|Notated]] with a hat
+> [[#Unit vectors|Notated]] with a hat
 
 ---
 ## Multiplying and Dividing by [[Scalers#Scaler|Scaler]]
@@ -70,7 +70,7 @@ Their components can also be summed individually
 - #### [[Random helpers#Commutativity|Commutativity]] -> **True**
 - #### [[Random helpers#Associativity|Associativity]] -> **True**
 ### Subtracting [[#Vector|Vectors]]
-Can be simplified as an [[#Adding Vector Vectors|Addition]] and inversion
+Can be simplified as an [[#Adding Vector Vectors|Addition]] and **inversion**
 $$\vec{u}-\vec{v} = \vec{u}+(-\vec{v}) = \vec{u}+(-1\cdot\vec{v})$$
 The inverted vector is placed tip to tail just like [[#Adding Vector Vectors|Addition]] 
 - #### [[Random helpers#Commutativity|Commutativity]] -> **False**

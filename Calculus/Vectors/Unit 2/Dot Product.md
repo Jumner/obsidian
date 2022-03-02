@@ -21,7 +21,7 @@ $\vec{a}\cdot\vec{a} = |\vec{a}|^2$
 ### [[Random helpers#Commutativity|Commutativity]] -> True
 ### [[Random helpers#Distributivity|Distributivity]] with addition
 #### $\vec{a}\cdot(\vec{b}+\vec{c})=\vec{a}\cdot\vec{b}+\vec{a}\cdot\vec{b}$ 
-### [[Random helpers#Distributivity]] with scaler multiplication
+### [[Random helpers#Distributivity|Distributivity]] with scaler multiplication
 $(k\vec{a})\cdot\vec{b}=k(\vec{a}\cdot\vec{b})=\vec{a}\cdot(k\vec{b})$
 
 ## Hard problem
