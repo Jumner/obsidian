@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Unit 2 Literary Critical Theory/Feminist Theory.md",
+            "file": "Chem/Unit 2 Structure and Properties/Orbitals.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Unit 2 Literary Critical Theory/Feminist Theory.md",
+                "file": "Chem/Unit 2 Structure and Properties/Orbitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,8 @@
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
+    "Chem/Unit 2 Structure and Properties/Orbitals.md",
+    "Chem/Unit 2 Structure and Properties/Energy and Frequency.md",
     "English/Unit 2 Literary Critical Theory/Feminist Theory.md",
     "English/Unit 2 Literary Critical Theory/Lit Crit.md",
     "Physics/Vectors/Projectile Motion.md",
@@ -120,8 +122,6 @@
     "Physics/Vectors/Vector Diagrams.md",
     "English/Unit 1/Rhetorical Device.md",
     "Calculus/Vectors/ggb Testing.md",
-    "Calculus/Vectors/Unit 2/Finding The Area.md",
-    "Calculus/Vectors/Unit 2/Projection.md",
-    "Calculus/Vectors/Unit 2/Cross Product.md"
+    "Calculus/Vectors/Unit 2/Finding The Area.md"
   ]
 }
