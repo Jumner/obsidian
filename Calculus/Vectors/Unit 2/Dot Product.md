@@ -7,7 +7,7 @@ Always remember that $\vec{u}\perp\vec{v}, \vec{u}\cdot\vec{v} = 0$
 ## Notation
 $\vec{u}$ dot $\vec{v}$ = $\vec{u}\cdot\vec{v}$ 
 $\vec{u}\cdot\vec{v} = |\vec{u}||\vec{v}|\cos{\theta} = u_{1}v_{1}+u_{2}v_{2}$ 
-$\theta$ is is the angle tail to tail.
+$\theta$ is is the angle [[Vectors#Tail to tail|Tail to tail]].
 ## Solving for $\theta$
 Because $\vec{u}\cdot\vec{v} = |\vec{u}||\vec{v}|\cos{\theta}$, $\cos{\theta} =\frac{u_{1}v_{1}+u_{2}v_{2}}{|\vec{u}||\vec{v}|}$, $\therefore \theta=cos^{-1}({\frac{u_{1}v_{1}+u_{2}v_{2}}{|\vec{u}||\vec{v}|}})$
 

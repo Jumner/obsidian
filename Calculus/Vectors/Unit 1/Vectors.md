@@ -33,7 +33,7 @@ Notated with $\theta\degree$
 When 2 vectors are **Parallel** or **Collinear**
 $$\vec v\, \textbackslash\textbackslash\, \vec u$$
 ### Unit vectors
-Unit vectors are notated with a hat
+**Unit vectors** are notated with a hat
 $$\hat v = \frac{\vec v}{\left| \vec v \right |}$$
 Called **v hat**
 > Note that a zero vector would require dividing by zero
@@ -66,7 +66,7 @@ if k = 0, becomes **[[#Zero vector]]**
 ### Adding [[#Vector|Vectors]]
 sum of vectors is called the **Resultant vector**
 Vectors are placed **tip to tail** (Sequentially)
-Their components can also be summed individually
+Their [[Algebraic Vectors#Components|Components]] can also be summed individually
 - #### [[Random helpers#Commutativity|Commutativity]] -> **True**
 - #### [[Random helpers#Associativity|Associativity]] -> **True**
 ### Subtracting [[#Vector|Vectors]]

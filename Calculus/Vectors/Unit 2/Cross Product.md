@@ -5,7 +5,7 @@ Also called the **Vector Product**.
 ## Notation
 [[Cross Product]] is notated with a **cross symbol**.
 $\vec{u}\times\vec{v}$ is perpendicular to both $\vec{u}$ and $\vec{v}$.
-$|\vec{u}||\vec{v}|\sin{\theta}$  
+$|\vec{u}||\vec{v}|\sin{\theta}\hat{n}$   
 ### Commutavity -> [[Random helpers#Commutativity|Anti-Communitive]].
 $\therefore \vec{a}\times\vec{b} = -\vec{b}\times\vec{a}$
 ### [[Random helpers#Distributivity|Distributivity]] -> True
@@ -20,10 +20,13 @@ your two middle fingers are $\vec{a}$ and your index and pinky fingers are $\vec
 ## Finding the [[Cross Product]] of [[Algebraic Vectors]]
 Result is a **Vector**
 ### 2D
-
+$\vec{a} = (a_{1}, a_{2})$
+$\vec{b} = (b_{1}, b_{2})$
+$\vec{a}\times\vec{b} = (a_{1}b_{2}-a_{2}b_{1})$ ([[Scalers#Scaler|Scaler]])
+Do not worry about 2d [[Cross Product#Cross Product]]
 ### 3D
 $\vec{a} = (a_{1}, a_{2}, a_{3})$
 $\vec{b} = (b_{1}, b_{2}, b_{3})$
-$\vec{a}\times\vec{b} = (a_{2}b_{3}-a_{3}b_{2}, a_{3},b_{1}-a_{1}b_{3}, a_{1}b_{2}-a_{2}b_{1})$
+$\vec{a}\times\vec{b} = (a_{2}b_{3}-a_{3}b_{2}, a_{3}b_{1}-a_{1}b_{3}, a_{1}b_{2}-a_{2}b_{1})$
 
 ![[Pasted image 20220302105615.png]]

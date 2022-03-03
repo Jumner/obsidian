@@ -10,3 +10,7 @@ The **same** as finding it for the [[#Parallelogram]] but **divided by 2**
 To find it you multiply the area of the base by the height
 ### Finding the Height
 you project the other vector onto the cross product of the 2 base vectors.
+$$\begin{align}
+&V=|\vec{b}\times\vec{c}|\cdot\frac{|\vec{a}\cdot(\vec{b}\times\vec{c})|}{|\vec{b}\times\vec{c}|}\\
+&=\vec{a}\cdot(\vec{b}\times\vec{c})
+\end{align}$$

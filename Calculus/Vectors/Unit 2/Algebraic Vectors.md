@@ -36,7 +36,7 @@ $\cos{\gamma} = \frac{c}{|\vec{v}|}$
 This makes it super simple with unit vectors
 $\alpha = cos^{-1}a$ etc...
 $\hat{v} = (cos{\alpha}, cos{\beta}, cos{\gamma})$
-$cos^{2{\alpha}}= (cos{\alpha})^2$ 
+$cos^{2}{\alpha}= (cos{\alpha})^2$ 
 $cos^{2}{\alpha} + cos^{2}{\beta} + cos^{2}{\gamma} = 1$ (unit vector not needed)
 
 ## Components
