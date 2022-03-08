@@ -24,9 +24,18 @@ $\ce{A_{(g)} + energy -> A+ + e-}$
 Notated with $IE_{1}$ 
 Increases from **left** to **right**
 Decreases from **top** to **bottom**
+> The [[#First Ionization Energy]] is what gives **noble gasses** their **stability**
 ### Further ionization energies
 > Further ionization energies are always larger than the [[#First Ionization Energy]]
 > Each jump in energy level has a 10x increase in ionization energy
 #### Exceptions
 Boron is an exception because its $2p^{1}$ is easier to ionize than Beryllium's $2s^{2}$
 Similarly, Oxygen is an exception because its $2p^{4}$ is easier to ionize than Nitrogen's $2p^{3}$
+
+## Electron Affinity
+The **energy** that is released from adding [[Electrons]] to an atom.
+$\ce{A + e- -> A- + energy}$ 
+Decreases from **right** to **left**
+Increases from **top** to **bottom** 
+#todo 
+- [ ] fix
