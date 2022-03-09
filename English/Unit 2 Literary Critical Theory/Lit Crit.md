@@ -4,9 +4,9 @@
 how you view the text
 The author brings a **Lens** and the reader brings a **Lens**
 1. Classical Medieval
-2. **Marxist** (BNW, 1984)
+2. [[Marxist Theory#Marxist Theory|Marxist]] (**BNW**, 1984)
 3. Formalist & New crit
-4. [[Psychoanalytic Theory|Psychoanalytic]]
+4. [[Psychoanalytic Theory#Psychoanalytic Theory|Psychoanalytic]]
 5. Archetypal
 6. Structuralism
 7. Reader Response (Bad)
