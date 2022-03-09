@@ -36,6 +36,7 @@ $\Delta\vec{d_{1}}= 10Km[N30E]$
 $\Delta\vec{d_{2}}= 15Km [S20W]$
 $\Delta\vec{d_{3}} = 30Km[W]$
 $\Delta\vec{d_{T}}= ?$
+
 |                     | H                    | V                    |
 | ------------------- | -------------------- | -------------------- |
 | $\Delta\vec{d_{1}}$ | $10\sin{30\degree}$  | $10\cos{30\degree}$  |
