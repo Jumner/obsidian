@@ -14,4 +14,4 @@ Therefore, to find the **change in energy**
 $\Delta E_{n} = E_{f} - E_{i}$ Energy **final** - Energy **Initial**
 $\therefore \Delta E_{n} = \frac{-1312}{n_{f}^{2}} - \frac{-1312}{n_{i}^{2}}$ 
 ## The Rydberg formula
-$\frac{1}{\lambda} = $
+$\frac{1}{\lambda} =$

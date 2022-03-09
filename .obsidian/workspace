@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md",
+            "file": "Calculus/Vectors/Unit 3/Equations of Lines.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md",
+                "file": "Calculus/Vectors/Unit 3/Equations of Lines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "ac6c8e6bbfa551d7",
   "lastOpenFiles": [
-    "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md",
-    "Chem/Unit 2 Structure and Properties/Periodic Trends.md",
-    "Chem/Unit 2 Structure and Properties/Orbitals.md",
-    "Chem/Unit 2 Structure and Properties/Definitions.md",
-    "Chem/Unit 2 Structure and Properties/Bohr Model.md",
     "Calculus/Vectors/Unit 3/Equations of Lines.md",
-    "English/Unit 2 Literary Critical Theory/Marxist Theory.md",
-    "English/Unit 2 Literary Critical Theory/Lit Crit.md",
-    "English/Unit 2 Literary Critical Theory/Psychoanalytic Theory.md",
-    "English/Unit 2 Literary Critical Theory/Feminist Theory.md"
+    "Calculus/Vectors/Unit 3/Distance From Point to Line.md",
+    "Calculus/Vectors/Unit 3/Cartesian Equations.md",
+    "Calculus/Vectors/Unit 3/Parametric Equations.md",
+    "Calculus/Vectors/Unit 3/Vector Equations.md",
+    "Calculus/Vectors/Unit 3/Symmetric Equations.md",
+    "Calculus/Vectors/Unit 1/Vectors.md",
+    "Physics/Dynamics/Free Body Diagrams.md",
+    "Physics/Dynamics/Force.md",
+    "Physics/Dynamics/Equations.md"
   ]
 }
