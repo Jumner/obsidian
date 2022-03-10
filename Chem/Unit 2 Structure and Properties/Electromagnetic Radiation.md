@@ -1,6 +1,6 @@
 #chem-unit-2 
 # Electromagnetic Radiation
-Also known as light, these 2 perpendicular waves travel at the speed of light in a vaccuum.
+Also known as light, these 2 perpendicular waves travel at the speed of light in a vacuum.
 
 ## Wavelength
 $\lambda = \frac{c}{f}$ 
