@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6c8e6bbfa551d7",
+        "id": "926ebb283de74741",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem/Unit 2 Structure and Properties/Energy and Frequency.md",
+            "file": "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ggb",
+                "query": "base",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem/Unit 2 Structure and Properties/Energy and Frequency.md",
+                "file": "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac6c8e6bbfa551d7",
+  "active": "926ebb283de74741",
   "lastOpenFiles": [
-    "Chem/Unit 2 Structure and Properties/Energy and Frequency.md",
-    "Chem/Unit 2 Structure and Properties/Electromagnetic Radiation.md",
-    "Chem/Unit 2 Structure and Properties/Definitions.md",
-    "Chem/Unit 2 Structure and Properties/Bohr Model.md",
-    "Calculus/Vectors/Unit 3/Distance From Point to Line.md",
-    "Calculus/Vectors/Unit 3/Cartesian Equations.md",
-    "Calculus/Vectors/Unit 3/Equations of Lines.md",
-    "Chem/Unit 2 Structure and Properties/Periodic Trends.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md",
     "Chem/Unit 2 Structure and Properties/Orbitals.md",
-    "Chem/Unit 2 Structure and Properties/Magnetism.md"
+    "Calculus/Vectors/Unit 3/Linear Combinations of Vectors.md",
+    "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
+    "Calculus/Vectors/Unit 3/Distance From Point to Line.md",
+    "Calculus/Vectors/Unit 3/Equations of Lines.md",
+    "English/Unit 2 Literary Critical Theory/Critical Race Theory.md",
+    "English/Unit 2 Literary Critical Theory/Feminist Theory.md",
+    "English/Unit 2 Literary Critical Theory/Post Colonialism Theory.md"
   ]
 }

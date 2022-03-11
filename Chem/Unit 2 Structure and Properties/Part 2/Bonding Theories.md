@@ -25,9 +25,9 @@ Addresses the **quantum aspect**.
 **Covalent bonds** form when 2 half filled [[Orbitals]] overlap to form a bond.
 These bonds will have 2 [[Electrons]] with opposite [[Orbitals#Magnetic Spin Quantum Number ms|Spin]].
 > This overlap is called a **$\sigma$ (sigma) bond**
+### $\sigma$ Bond
+> Only one can occur between 2 atoms
+### $\pi$ Bond
+> Bonds that occur alongside a [[#sigma Bond|Sigma Bond]], with [[Orbitals#P Orbital|P Orbitals]] 
 ### Hybridization
-> The mixing of [[Orbitals]] to form new [[Orbitals]]
-#### Carbon
-Carbon has a [[Orbitals#Electron Configuration|Electron Configuration]] of $2s^{2}2p^{2}$ which becomes **$2s^{1}2p^{3}$** or really 4 [[#Hybridization|Hybrid]] $sp^{3}$ [[Orbitals]]
-This is more stable and so **lower** [[Bohr Model#Energy Levels|Energy]].
-![[Pasted image 20220308094454.png]]
+![[Hybrid Orbitals#Hybrid Orbitals]]
