@@ -27,4 +27,3 @@ $$\begin{align}
 &8=5a+12-6a=12-a,\\
 &\therefore a=4, b=-6
 \end{align}$$
-	

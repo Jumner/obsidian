@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
-            "mode": "preview",
+            "file": "Calculus/Vectors/Unit 3/Coplanar Vectors.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "base",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
+                "file": "Calculus/Vectors/Unit 3/Coplanar Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "926ebb283de74741",
   "lastOpenFiles": [
-    "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
-    "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md",
-    "Chem/Unit 2 Structure and Properties/Orbitals.md",
+    "Calculus/Vectors/Unit 3/Coplanar Vectors.md",
     "Calculus/Vectors/Unit 3/Linear Combinations of Vectors.md",
-    "Calculus/Vectors/Unit 2/Algebraic Vectors.md",
+    "Calculus/Vectors/Unit 2/Collinear Points and Vectors.md",
     "Calculus/Vectors/Unit 3/Distance From Point to Line.md",
     "Calculus/Vectors/Unit 3/Equations of Lines.md",
-    "English/Unit 2 Literary Critical Theory/Critical Race Theory.md",
-    "English/Unit 2 Literary Critical Theory/Feminist Theory.md",
-    "English/Unit 2 Literary Critical Theory/Post Colonialism Theory.md"
+    "README.md",
+    "Calculus/Vectors/README.md",
+    "Calculus/Vectors/ggb Testing.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md"
   ]
 }
