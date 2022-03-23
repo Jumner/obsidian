@@ -18,7 +18,7 @@ This forms a **Tetrahedral** structure
 This forms a **Trigonal Bipyramidal** structure
 ### $sp^{3}d^{2}$
 > When a [[Orbitals#S Orbital|S Orbital]], 3 [[Orbitals#P Orbital|P Orbitals]], and 2 [[Orbitals#D Orbital|D Orbitals]] combine to form 6 $sp^{3}d^{2}$ **Orbitals**
-This forms a **Trigonal Octahedral** structure
+This forms a **Octahedral** structure
 ## Examples
 ### Carbon
 Carbon has a [[Orbitals#Electron Configuration|Electron Configuration]] of $2s^{2}2p^{2}$ which becomes **$2s^{1}2p^{3}$** or really 4 [[#Hybridization|Hybrid]] $sp^{3}$ [[Orbitals]]

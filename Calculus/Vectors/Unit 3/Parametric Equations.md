@@ -15,3 +15,10 @@ $$\begin{align}
 &z=z_{o}+ct\\
 &t\in\mathbb{R}
 \end{align}$$
+## Plane In $\mathbb{R}^{3}$ Space
+$$\begin{align}
+&x=x_{0}+s\vec{a_{x}}+t\vec{b_{x}}\\
+&y=y_{0}+s\vec{a_{y}}+t\vec{b_{y}}\\
+&z=z_{0}+s\vec{a_{z}}+t\vec{b_{z}}\\
+&s,t \in \mathbb{R}
+\end{align}$$

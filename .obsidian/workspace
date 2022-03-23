@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus/Vectors/Unit 3/Coplanar Vectors.md",
+            "file": "Physics/Dynamics/Pulleys/Pulleys.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line(direction vector)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Vectors/Unit 3/Coplanar Vectors.md",
+                "file": "Physics/Dynamics/Pulleys/Pulleys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,24 +105,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "926ebb283de74741",
   "lastOpenFiles": [
-    "Calculus/Vectors/Unit 3/Coplanar Vectors.md",
-    "Calculus/Vectors/Unit 3/Linear Combinations of Vectors.md",
-    "Calculus/Vectors/Unit 2/Collinear Points and Vectors.md",
-    "Calculus/Vectors/Unit 3/Distance From Point to Line.md",
-    "Calculus/Vectors/Unit 3/Equations of Lines.md",
-    "README.md",
-    "Calculus/Vectors/README.md",
-    "Calculus/Vectors/ggb Testing.md",
-    "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
-    "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md"
+    "Physics/Dynamics/Pulleys/Pulleys.md",
+    "Physics/Dynamics/Pulleys/Tension.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Polarity.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Vsepr.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Electrons.md",
+    "Calculus/Vectors/Unit 3/Equations of Planes.md",
+    "Calculus/Vectors/Unit 3/Parametric Equations.md",
+    "Calculus/Vectors/Unit 3/Symmetric Equations.md",
+    "Calculus/Vectors/Unit 3/Cartesian Equations.md"
   ]
 }
