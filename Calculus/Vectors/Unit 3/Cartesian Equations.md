@@ -5,7 +5,6 @@
 > Finds the $Ax+By+C=0$ form from a [[Points|Point]] and perpendicular [[Equations of Lines#Direction Algebraic Vectors Algebraic Vectors Vectors|Direction Vector]] 
 ---
 ## In $\mathbb{R}^{2}$ Space
-> Put the negative in the denominator! $-\frac{x-1}{2}$ -> $\frac{x-1}{-2}$ 
 $$\begin{align}
 &Ax+By+C=0\\
 &\vec{n} = (A,B)\\
@@ -13,7 +12,7 @@ $$\begin{align}
 \end{align}$$
 ## Planes In $\mathbb{R}^{3}$ Space
 > The normal $\vec{n}$ is a vector $\perp$ to any vector in the **Plane**
-> It is equal to the [[Cross Product#Cross Product|Cross Product]] of the 2 **Direction Vectors** of the **Plane** 
+> It is equal to the [[Cross Product#Cross Product|Cross Product]] of the 2 [[Equations of Lines#Direction Algebraic Vectors Algebraic Vectors Vectors|Direction Vectors]] of the [[Vector Equations#Plane In mathbb R 3 Space|Vector Form]] of the **Plane** 
 $$\begin{align}
 &\vec{u} \nparallel \vec{v}\\
 &\vec{n} = k(\vec{u} \times  \vec{v})=(A,B,C)\\\\

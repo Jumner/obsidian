@@ -2,6 +2,7 @@
 #calculus-unit-3 
 # Symmetric Equations
 ---
+> Put the negative in the denominator! $-\frac{x-1}{2}$ -> $\frac{x-1}{-2}$ 
 ## In $\mathbb{R}^{2}$ Space
 $$\begin{align}
 &x=4+3t,y=-1+2t\\
