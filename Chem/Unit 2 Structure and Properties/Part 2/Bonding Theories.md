@@ -29,5 +29,7 @@ These bonds will have 2 [[Electrons]] with opposite [[Orbitals#Magnetic Spin Qua
 > Only one can occur between 2 atoms
 ### $\pi$ Bond
 > Bonds that occur alongside a [[#sigma Bond|Sigma Bond]], with [[Orbitals#P Orbital|P Orbitals]] 
+
+![](sigma.png)
 ### Hybridization
 ![[Hybrid Orbitals#Hybrid Orbitals]]

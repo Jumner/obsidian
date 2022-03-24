@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Dynamics/Pulleys/Pulleys.md",
+            "file": "Calculus/Vectors/Unit 3/Equations of Planes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Dynamics/Pulleys/Pulleys.md",
+                "file": "Calculus/Vectors/Unit 3/Equations of Planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "926ebb283de74741",
   "lastOpenFiles": [
-    "Physics/Dynamics/Pulleys/Pulleys.md",
-    "Physics/Dynamics/Pulleys/Tension.md",
+    "Calculus/Vectors/Unit 3/Equations of Planes.md",
+    "Calculus/Vectors/Unit 3/Cartesian Equations.md",
+    "Calculus/Vectors/Unit 3/Equations of Lines.md",
+    "Calculus/Vectors/Unit 3/Vector Equations.md",
     "Chem/Unit 2 Structure and Properties/Part 2/Polarity.md",
     "Chem/Unit 2 Structure and Properties/Part 2/Vsepr.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
     "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md",
-    "Chem/Unit 2 Structure and Properties/Part 2/Electrons.md",
-    "Calculus/Vectors/Unit 3/Equations of Planes.md",
-    "Calculus/Vectors/Unit 3/Parametric Equations.md",
-    "Calculus/Vectors/Unit 3/Symmetric Equations.md",
-    "Calculus/Vectors/Unit 3/Cartesian Equations.md"
+    "Chem/Unit 2 Structure and Properties/Bohr Model.md",
+    "Chem/Unit 2 Structure and Properties/Definitions.md"
   ]
 }

@@ -25,11 +25,11 @@ $$\begin{align}
 \end{align}$$
 
 ## Checking if [[Points|Point]] is on a Plane
-1. Substitute the **Point** into the [[#Parametric Equation]] 
+1. Substitute the **Point** into the [[Parametric Equations#Plane In mathbb R 3 Space|Parametric Equations]] 
 2. Clean up the numbers
 3. Use **2** equations to solve for **s** and **t**
 4. Test values with **Third**
-> If this fails, the line is on on the plate
+> If this fails, the line is on on the plane
 
 ## With 2 Lines that are Parallel
 ---

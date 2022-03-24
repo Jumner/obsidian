@@ -14,7 +14,7 @@
 | >2       | Ionic                                               |
 
 ## Polar Covalent Bond
-A Polar Covalent bond occurs when the difference in **Electronegativity** is greater than 0.5 and less than 1.7. The [[Electrons]] will be pulled towards the atom with the **higher** electronegativity, making it negative.
+A Polar Covalent bond occurs when the difference in **Electronegativity** is greater than 0.5 and less than 1.7. The [[Electrons]] will be pulled towards the atom with the **higher** electronegativity, making it negative, and forming [[#Dipoles]].
 ### Dipoles
 [[#Dipoles]] are formed with [[#Polar Covalent Bond|Polar Covalent Bonds]]. The element with higher **Electronegativity** will pull the [[Electrons]] closer making it **Partially** negative. This creates 2 [[#Dipoles]] $\delta^{+}$ and $\delta^{-}$ 
 ## Molecular Polarity

@@ -13,7 +13,7 @@ $$\begin{align}
 \end{align}$$
 ## Planes In $\mathbb{R}^{3}$ Space
 > The normal $\vec{n}$ is a vector $\perp$ to any vector in the **Plane**
-> It is equal to the [[Cross Product#Cross Product|Cross Product]] of the 2 [[]]**Direction Vectors** of the **Plane** 
+> It is equal to the [[Cross Product#Cross Product|Cross Product]] of the 2 **Direction Vectors** of the **Plane** 
 $$\begin{align}
 &\vec{u} \nparallel \vec{v}\\
 &\vec{n} = k(\vec{u} \times  \vec{v})=(A,B,C)\\\\
