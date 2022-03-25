@@ -3,6 +3,7 @@
 # Cartesian Equations
 > Has **no $\mathbb{R}^{3}$ equivalent**
 > Finds the $Ax+By+C=0$ form from a [[Points|Point]] and perpendicular [[Equations of Lines#Direction Algebraic Vectors Algebraic Vectors Vectors|Direction Vector]] 
+> The only way to convert from [[#Cartesian Equations]] is to find the intercepts. (set x to 0 and solve for y)
 ---
 ## In $\mathbb{R}^{2}$ Space
 $$\begin{align}

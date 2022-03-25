@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus/Vectors/Unit 3/Parametric Equations.md",
+            "file": "Calculus/Vectors/Unit 3/Cartesian Equations.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "triple",
+                "query": "section:(position vector)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Vectors/Unit 3/Parametric Equations.md",
+                "file": "Calculus/Vectors/Unit 3/Cartesian Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "926ebb283de74741",
   "lastOpenFiles": [
-    "Calculus/Vectors/Unit 3/Parametric Equations.md",
     "Calculus/Vectors/Unit 3/Cartesian Equations.md",
-    "Calculus/Vectors/Unit 3/Symmetric Equations.md",
-    "Calculus/Vectors/Unit 3/Vector Equations.md",
-    "Calculus/Vectors/Unit 3/Equations of Planes.md",
     "Calculus/Vectors/Unit 3/Coplanar Vectors.md",
+    "Calculus/Vectors/Unit 3/Distance From Point to Line.md",
+    "Calculus/Vectors/Unit 3/Distance from Point to Plane.md",
     "Calculus/Vectors/Unit 3/Equations of Lines.md",
-    "Physics/Dynamics/Pulleys/Tension.md",
-    "Chem/Unit 2 Structure and Properties/Part 2/Solids.md",
-    "Chem/Unit 2 Structure and Properties/Part 2/Polarity.md"
+    "Calculus/Vectors/Unit 3/Equations of Planes.md",
+    "Calculus/Vectors/Unit 3/Linear Combinations of Vectors.md",
+    "Calculus/Vectors/Unit 3/Vector Equations.md",
+    "Calculus/Vectors/Unit 3/Symmetric Equations.md",
+    "Calculus/Vectors/Unit 3/Parametric Equations.md"
   ]
 }
