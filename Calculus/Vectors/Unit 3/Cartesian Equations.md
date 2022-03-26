@@ -39,3 +39,5 @@ $$\begin{align}
 &2x-3y-11=0
 \end{align}
 $$
+
+![[ex]]
