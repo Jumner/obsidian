@@ -14,7 +14,3 @@ $$\begin{align}
 &\vec{a_{c}}=\frac{2\pi\frac{2\pi r}{T}}{T} = \frac{4\pi^{2}r}{T^{2}}\tag{a}\\
 &\vec{a_{c}}= \frac{v^{2}}{r}\tag{b}
 \end{align}$$
-## Problems
-$$\begin{align}
-&\vec{a_{c}} = \frac{\vec{v}^{2}}{r}
-\end{align}$$
