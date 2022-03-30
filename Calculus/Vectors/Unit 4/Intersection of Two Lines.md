@@ -1,10 +1,21 @@
 #calculus-unit-4
+#vectors 
 # Intersection of Two Lines
 ---
 ## Intersection of 2 [[Equations of Lines#Equations of Lines|Lines]] in $\mathbb{R}^{2}$ Space
 ![[Intersection of Two Lines 2022-03-28 13.48.35.excalidraw]]
 ## Intersection of 2 [[Equations of Lines#Equations of Lines|Lines]] in $\mathbb{R}^{3}$ Space
 ![[Intersection of Two Lines 2022-03-28r3.excalidraw]]
+
+## Distance between 2 Skew [[Equations of Lines#Equations of Lines|Lines]]
+Consider 2 Skew Lines
+> You can simply [[Projection#Scaler Projection|Project]] the line ($\vec{PQ}$) onto the [[Cross Product#Cross Product|Cross Product]] of the 2 **Direction Vectors**
+$$\begin{align}
+&\vec{r_{1}}=\vec{OP}+t\vec{m_1}\\
+&\vec{r_2}=\vec{OQ}+s\vec{m_2}\\
+&d= \frac{|\vec{PQ}\cdot\vec{m_{1}}\times\vec{m_2}|}{|\vec{m_{1}}\times\vec{m_2}|}
+\end{align}$$
+![[Intersection of Two Lines 2022-03-29 13.38.05.excalidraw]]
 
 ---
 
