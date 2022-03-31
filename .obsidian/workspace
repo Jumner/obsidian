@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus/Vectors/Unit 3/Equations of Lines.md",
+            "file": "Calculus/Vectors/Unit 4/Matricies/Augmented Matrix.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "charact",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Vectors/Unit 3/Equations of Lines.md",
+                "file": "Calculus/Vectors/Unit 4/Matricies/Augmented Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "85ff1c6bd44f5b44",
   "lastOpenFiles": [
+    "Calculus/Vectors/Unit 4/Matricies/Augmented Matrix.md",
+    "Calculus/Vectors/Unit 4/Matricies/Images/Augmented Matrix 2022-03-30 14.23.47.excalidraw.md",
+    "Physics/Dynamics/Circular Motion/Satellites.md",
+    "Physics/Dynamics/Circular Motion/Images/Satellites 2022-03-30 10.01.10.excalidraw.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Hybrid Orbitals.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Solids.md",
+    "Chem/Unit 2 Structure and Properties/Part 2/Polarity.md",
     "Calculus/Vectors/Unit 3/Equations of Lines.md",
     "Calculus/Vectors/Unit 4/Intersection of a Line and a Plane.md",
-    "Calculus/Vectors/Unit 3/Equations of Planes.md",
-    "Calculus/Vectors/Unit 4/Images/Intersection of a Line and a Plane 2022-03-29 13.57.02.excalidraw.md",
-    "Calculus/Vectors/Unit 3/Distance From Point to Line.md",
-    "Calculus/Vectors/Unit 4/Intersection of Two Lines.md",
-    "Calculus/Vectors/Unit 2/Projection.md",
-    "Calculus/Vectors/Unit 2/Perpendicular Vectors.md",
-    "Calculus/Vectors/Unit 4/Images/Intersection of Two Lines 2022-03-29 13.38.05.excalidraw.md",
-    "English/Unit 2 Literary Critical Theory/Blitzkrieg BNW.md"
+    "Calculus/Vectors/Unit 3/Equations of Planes.md"
   ]
 }
