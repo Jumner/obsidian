@@ -13,6 +13,15 @@
 
 ## Enthalpy
 $H=U+PV$ Enthalpy = **total energy** + **pressure** \* **volume**
+The sum of all energy sources
+1. Kinetic Energy
+	1. Vibrational Energy
+	2. Rotational Energy
+	3. Translational Energy
+2. Potential Energy
+	1. [[Solids#Intermolecular Forces|Intermolecular Bonds]]
+	2. [[Solids#Intramolecular Forces|Intramolecular Bonds]]
+	3. Nuclear Forces
 ### Change
 > $\Delta H=\Delta U + \Delta PV=H_{products}-H_{reactants}$
 > The change in [[#Enthalpy]] is equal to [[#Heat|q]]
