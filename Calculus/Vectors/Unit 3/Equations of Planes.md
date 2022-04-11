@@ -29,7 +29,7 @@ $$\begin{align}
 2. Clean up the numbers
 3. Use **2** equations to solve for **s** and **t**
 4. Test values with **Third**
-> If this fails, the line is on on the plane
+> If this fails, the line is not on the plane
 
 ## With 2 Lines that are Parallel
 ---

@@ -16,7 +16,7 @@ $A(1,2,-3), B(3,4,-7),C(-2-1,3)$
 $\vec{AB} = (2,2,-3), \vec{AC} = (-3,-3,6)$
 $\frac{\vec{AB}}{\vec{AC}} = \frac{(2,2,-4)}{-3,-3,6} = \frac{2(1,1,-2)}{-3(1,1,-2)}$ 
 $\therefore \vec{AB} = -\frac{2}{3}\vec{AC}$ 
-$\therefore \vec{AB} // \vec{AC}$
+$\therefore \vec{AB} \parallel \vec{AC}$
 
 # Collinear [[Algebraic Vectors]]
 ---

@@ -31,7 +31,7 @@ What direction the vector is pointed.
 Notated with $\theta\degree$   
 ### Parallel vectors
 When 2 vectors are **Parallel** or **Collinear**
-$$\vec v\, \textbackslash\textbackslash\, \vec u$$
+$$\vec v\parallel\vec u$$
 ### Unit vectors
 **Unit vectors** are notated with a hat
 $$\hat v = \frac{\vec v}{\left| \vec v \right |}$$
