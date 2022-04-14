@@ -17,3 +17,5 @@
 ## Rational Functions
 ### Removable Discontinuity
 Removable Discontinuity occurs when the denominator reaches zero. However, it doesn't create an asymptote because they both share a factor.
+$$f(x)=\frac{(x+3)\cancel{(x-4)}}{\cancel{x-4}}$$
+[[#Removable Discontinuity]] at $x=4$, $f(4)=undefined$

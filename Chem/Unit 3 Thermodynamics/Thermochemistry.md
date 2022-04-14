@@ -3,13 +3,13 @@
 ---
 > The study of a **[[#System]]** and its **Surroundings**
 ## System
-- Open System
-	- **Matter** and **energy** are allowed to leave and enter the [[#System]]
-- Closed System
-	- **Matter** is not allowed to leave but **energy** can.
-- Isolated System
-	- Neither **Matter** nor **energy** can leave or enter the [[#System]]
-	- Ideal system (not physically possible)
+### Open System
+- **Matter** and **energy** are allowed to leave and enter the [[#System]]
+### Closed System
+- **Matter** is not allowed to leave but **energy** can.
+### Isolated System
+- Neither **Matter** nor **energy** can leave or enter the [[#System]]
+- Ideal system (not physically possible)
 
 ## Enthalpy
 $H=U+PV$ Enthalpy = **total energy** + **pressure** \* **volume**
@@ -24,8 +24,7 @@ The sum of all energy sources
 	3. Nuclear Forces
 ### Change
 > $\Delta H=\Delta U + \Delta PV=H_{products}-H_{reactants}$
-> The change in [[#Enthalpy]] is equal to [[#Heat|q]]
-> If pressure and volume are constant. [[#Heat|q]] is equal to the **change in energy**
+> If pressure and volume are constant. [[#Heat|q]] is equal to the **change in energy** or [[#Heat]]
 
 - Positive if [[#Endothermic]]
 - Negative if [[#Exothermic]] 
@@ -46,10 +45,10 @@ One [[#Calorie]] is a unit of energy that can raise one ml of water by one degre
 - [[Solids#Intramolecular Forces|Intramolecular Forces]]
 - [[Solids#Intermolecular Forces|Intermolecular Forces]]
 ### Exothermic
-> Releases energy
+> Converts Potential Energy to [[Energy#Kinetic Energy|Kinetic Energy]]
 > $\ce{A + B->AB + energy}$
 ### Endothermic
-> Requires energy
+> Converts [[Energy#Kinetic Energy|Kinetic Energy]] to Potential Energy
 > $\ce{AB + energy -> A + B}$
 ## Heat
 > Heat (q) is the transfer of energy 

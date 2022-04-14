@@ -11,8 +11,7 @@ This is because weaker bonds must be broken in order to form stronger bonds and 
 ### Concentration of Reactants
 Increasing the concentration increases the frequency of collisions and hence, reaction rate.
 ### Temperature
-Increasing the temperature increases the energy of collisions so a higher \% of collisions have enough energy to start the reaction.
-Reaction rate usually doubles every 10$\degree$c
+![[Temperature and Potential Energy Diagrams#Temperature]]
 ### Surface Area
 Increasing the surface area of a solid reactant will increase the reaction rate. Because the reaction can only occur on the surface of the solid.
 ### Pressure
@@ -21,7 +20,7 @@ rate $\propto$ pressure
 ### Catalysis
 Not used in the reaction but increases the reaction rate by reducing the [[Activation Energy]].
 ## Activation Energy
-The energy required to start a reaction.
+The **potential energy** required to start a reaction.
 It is the energy needed to break weaker bonds in order to form stronger bonds and release net positive energy.
 > Lowered only by [[#Catalysis|Catalysts]] and enzymes
 ## Rate Law
@@ -44,4 +43,16 @@ k=& \frac{r_{1}}{[X]^{m}[Y]^{n}}= \frac{r_{2}}{[X]^{m}[Y]^{n}}\\
 & \frac{r_{2}}{r_{1}}=\frac{[X]^{m}_{2}}{[X]^{m}_{n}}=\left(\frac{[X]_{2}}{[X]_{1}}\right)^{m}\\
 m=&\log_{\frac{[X]^{2}}{[X]_{1}}}{\frac{r_{2}}{r_{1}}} \\
 k=&\frac{r}{[X]^{m}[Y]^{n}}
+\end{align}$$
+|Trial|$[\ce{SO2}]$|$[\ce{O3}]$|Rate (mol/Ls)|
+| --- | --- |--- | --- |
+|1|0.25|0.40|0.118|
+|2|0.25|0.20|0.118|
+|3|0.75|0.20|1.062|
+$r=k[\ce{SO2}]^{m}[\ce{O3}]^{n}$
+$$\begin{align}
+\frac{1.062}{0.118}&=\left( \frac{0.75}{0.20}\right)^{m}\\
+m=\log_{3}{9}&=2\\
+n&=0\\
+k= \frac{r}{[\ce{SO2}]^{2}}&=\frac{1.062}{0.75}=1.888
 \end{align}$$

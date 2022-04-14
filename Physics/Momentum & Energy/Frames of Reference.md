@@ -4,6 +4,7 @@
 ## Inertial Frame
 > Follows the [[Dynamics#Newtons 1st Law|Law of Inertia]]
 > Moving at a **constant** Velocity
+> When making a new frame of reference, always notate with "\*new Frame of Reference +#"
 ## Non-Inertial Frame
 > Breaks the [[Dynamics#Newtons 1st Law|Law of Inertia]]
 > [[#Fictitious Force]] are created
