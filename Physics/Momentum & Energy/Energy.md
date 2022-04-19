@@ -60,3 +60,5 @@ E_{gp}=&E_{k}\\
 \cancel mgh=&\frac{1}{2}\cancel mv^{2}\\
 v=&\sqrt{2gh}
 \end{align}$$
+## Potential Energy of Springs
+[[Springs#Springs|Springs]] store potential energy

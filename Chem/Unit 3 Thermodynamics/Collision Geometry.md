@@ -17,12 +17,10 @@ Increasing the surface area of a solid reactant will increase the reaction rate.
 ### Pressure
 $p= \frac{nRT}{V}=[\text{gas}]RT$
 rate $\propto$ pressure
-### Catalysis
-Not used in the reaction but increases the reaction rate by reducing the [[Activation Energy]].
 ## Activation Energy
 The **potential energy** required to start a reaction.
 It is the energy needed to break weaker bonds in order to form stronger bonds and release net positive energy.
-> Lowered only by [[#Catalysis|Catalysts]] and enzymes
+> Lowered only by [[Catalysts#Catalysts|Catalysts]] and [[Catalysts#Enzymes|Enzymes]]
 ## Rate Law
 $\text{rate}\propto[X]^{m}[Y]^{n}$ , $\text{rate}=k[X]^{m}[Y]^{n}$
 
