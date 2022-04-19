@@ -62,3 +62,5 @@ v=&\sqrt{2gh}
 \end{align}$$
 ## Potential Energy of Springs
 [[Springs#Springs|Springs]] store potential energy
+$E_{p}=\frac{1}{2}kx^{2}$ 
+## ![[Escape or Binding Energy#Escape or Binding Energy]]
