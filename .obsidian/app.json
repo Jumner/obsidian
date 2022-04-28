@@ -48,5 +48,6 @@
     "en-CA"
   ],
   "newFileLocation": "current",
-  "attachmentFolderPath": "./Images"
+  "attachmentFolderPath": "./Images",
+  "communityPluginSortOrder": "download"
 }

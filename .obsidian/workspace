@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem/Unit 4 Equilibrium/Part 1/Le Chateliers's Principle.md",
+            "file": "Physics/Waves and Light/Refraction.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem/Unit 4 Equilibrium/Part 1/Le Chateliers's Principle.md",
+                "file": "Physics/Waves and Light/Refraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,19 +108,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "63082c3e691ecbb4",
   "lastOpenFiles": [
+    "Physics/Waves and Light/Refraction.md",
+    "Physics/Waves and Light/Waves.md",
+    "Chem/Unit 4 Equilibrium/Part 1/Haber Process & Concentration Time Graphs.md",
     "Chem/Unit 4 Equilibrium/Part 1/Le Chateliers's Principle.md",
     "Chem/Unit 3 Thermodynamics/Catalysts.md",
     "Chem/Unit 4 Equilibrium/Untitled.md",
     "Chem/Unit 4 Equilibrium/Untitled 1.md",
     "Calculus/Calculus/Derivatives/Rate of Change.md",
     "Calculus/Calculus/Derivatives/Definition Of the Derivative.md",
-    "Calculus/Calculus/Derivatives/Tangent.md",
-    "Chem/Unit 4 Equilibrium/Part 1/Gibbs Free Energy.md",
-    "Chem/Unit 4 Equilibrium/Part 1/Entropy.md",
-    "Chem/Unit 4 Equilibrium/Part 1/Equilibrium.md"
+    "Calculus/Calculus/Derivatives/Tangent.md"
   ]
 }
