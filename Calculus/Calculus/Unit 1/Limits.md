@@ -9,8 +9,8 @@
 
 Start with a simple function $f(x)=x^{2} +2$ 
 $f(1) = 3$, $P(1,3)$ $\text{Domain} = \{x \in \mathbb{R}\}$
-$f(x)$ is continuous at $x=1$
-Because this is impossible at **all** points in the domain, we find the points that **Are not Continuous**
+$f(x)$ is  [[Continuity#Continuity|Continuous]] at $x=1$
+Because this is impossible at **all** points in the domain, we find the points that **Are not [[Continuity#Continuity|Continuous]]**
 Onto the [[#Limits|Limit]]
 ![[#^a2e901]]
 When x **Approaches 1** $f(x)$ **Approaches 3**
