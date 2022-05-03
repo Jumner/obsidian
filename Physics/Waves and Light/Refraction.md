@@ -20,7 +20,7 @@ The **direction** of the "light rays".
 ## Angle Of Incidence
 The angle of the line **relative** to the **normal**.
 ## Angle of Refraction
-The angle of the line **after the refraction** relative to the **normal**.
+The angle of the line **after the refraction** relative to the [[#Angle Of Incidence]].
 
 ## Boundary
 > Also known as an **Interface**, this is the **Boundary** between 2 **mediums** of different **densities**. Light will travel slower in the denser medium

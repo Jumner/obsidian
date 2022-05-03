@@ -22,3 +22,24 @@ This is the slope of the [[Tangent#Secant|Secant]]. To find the slope of the [[T
 \therefore& \frac{df}{dx}x^{2}=2x
 \end{align}$$
 Note that $h^{2}$ is divided by $h$ to become just $h$. Since $h\to0$, it becomes 0
+## Notation
+> There are many ways to show a **Derivative**
+### Newtons Notation (Dot)
+> The dot notation is simply **the BEST**: Shown with [[#Leibniz Notation]], $y=f(x),\frac{dy}{dx}= \dot{y}$ 
+> Obviously, **Higher order Derivatives** can be shown with **multiple dots**
+> $\ddot{x}=\frac{d\dot{x}}{dt}$  
+#### Example
+> Used in **State Space Representation**
+> $$\begin{align}
+\dot{x}&=Ax+Bu\\
+y&=Cx+Du
+\end{align}$$
+### Lagrange Notation
+> This is the **f'(x) notation**. Or, explained with [[#Leibniz Notation]], $\frac{df}{dx}f(x)=f'(x)$ 
+> **Higher order Derivatives** can be shown with **multiple primes**.
+### Leibniz Notation
+> This is the $\frac{df}{dx}f(x)$ notation.
+> The $d$ **encodes** the [[#Definition Of the Derivative|Underlying Limit]] and resolves to $\lim_{\Delta x\to{0}} \frac{\Delta f(x)}{\Delta x}$ 
+#### Example
+>$$\frac{df}{dx}(x^{2})=2x$$
+>**Note the brackets otherwise it would be $(\frac{df}{dx}x)^{2}=1^{2}=1$**

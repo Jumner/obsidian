@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus/Calculus/Unit 1/Properties of Limits.md",
-            "mode": "preview",
+            "file": "Calculus/Calculus/Derivatives/Power Rule.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Calculus/Unit 1/Properties of Limits.md",
+                "file": "Calculus/Calculus/Derivatives/Power Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,24 +104,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "63082c3e691ecbb4",
   "lastOpenFiles": [
-    "Calculus/Calculus/Unit 1/Properties of Limits.md",
-    "Calculus/Calculus/Unit 1/Limits to Infinity.md",
-    "Calculus/Calculus/Unit 1/Continuity.md",
-    "Calculus/Calculus/Unit 1/Graphing Split Functions.md",
-    "Calculus/Calculus/Unit 1/Limits.md",
-    "Physics/Waves and Light/Interference of Waves.md",
-    "Physics/Waves and Light/Images/Interference of Waves 2022-04-29 09.59.14.excalidraw.md",
-    "Chem/Unit 4 Equilibrium/Chemical Production Assignment.md",
+    "Calculus/Calculus/Derivatives/Power Rule.md",
+    "Calculus/Calculus/Derivatives/Derivative Rules.md",
+    "Calculus/Calculus/Derivatives/Chain Rule.md",
+    "Physics/Waves and Light/Refraction.md",
+    "Physics/Waves and Light/Youngs Formula.md",
     "Chem/Unit 4 Equilibrium/Part 1/The Equilibrium Constant.md",
-    "Chem/Unit 3 Thermodynamics/Collision Geometry.md"
+    "Chem/Unit 4 Equilibrium/Part 1/ICE Tables.md",
+    "Calculus/Calculus/Derivatives/Derivative.md",
+    "Calculus/Calculus/Derivatives/Differentiability.md",
+    "Chem/Unit 4 Equilibrium/Chemical Production Assignment.md"
   ]
 }
