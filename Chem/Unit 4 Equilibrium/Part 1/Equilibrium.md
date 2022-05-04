@@ -4,7 +4,7 @@
 >  All Reactions **Can** occur in forward and in reverse
 >  we show this using the double arrow $\ce{<=>}$ which shows that the reaction occurs in both directions at the same time.
 ## Spontaneous Reaction
->  \>99% of products are produced
+>  $>$ 99% of products are produced
 >  Doesn't need much energy
 ## Dynamic Equilibrium
 A "balance" of reversible processes.

@@ -10,8 +10,12 @@ Figure 1: Nitrogen Monoxide with an attached hydrogen
 <iframe style="width: 500px; height: 300px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=945"></iframe>
 This paper will describe the optimization of the production of nitrogen monoxide from Ammonia and oxygen. Nitrogen monoxide, also known as nitric oxide is a free radical compound formed by a nitrogen atom double bonded to a oxygen atom. Nitric oxide is a colourless gas with a very sharp odour [^1]. It boils at around -152$\degree$C and melts at around -164$\degree$C [^1]. It is somewhat soluble in water with a solubility of roughly 7.4ml/100ml of water [^1].
 ## Applications Of Nitrogen Monoxide
-There are many applications of Nitrogen Monoxide. The main use is as a precursor to Nitric acid [^3]. The world requires a significant amount of nitric acid for fertilizer and explosive production [^4]. One other use is as the precursor to Dinitrogen Tetroxide ($\ce{N2O4}$). Dinitrogen Tetroxide is used as an oxidizer in rocketry because of its hypergolic reaction with hydrasine[^5]. It is frequently used in reaction control thrusters and sometimes as the main fuel for a few orbital rockets due to its simplicity. 
+There are many applications of Nitrogen Monoxide. The main use is as a precursor to Nitric acid [^3]. The world requires a significant amount of nitric acid for fertilizer and explosive production [^4]. One other use is as the precursor to Dinitrogen Tetroxide ($\ce{N2O4}$). Dinitrogen Tetroxide is used as an oxidizer in rocketry because of its hypergolic reaction with hydrasine[^5]. It is frequently used in reaction control thrusters and sometimes as the main fuel for a few orbital rockets due the simplicity of ignition. 
+
+## Production Of Nitrogen Monoxide
+Nitrogen Monoxide is produced using a reaction with Ammonia and Oxygen gas. This reaction is an exothermic equilibrium reaction. Following is the balanced chemical equation:
 	$\ce{4NH3_{(g)} + 5O2_{(g)} <=> 4NO_{(g)} + 6H2O_{(g)}}, \Delta H=-900\text{kJ/mol}$   
+	
 [^1]: https://pubchem.ncbi.nlm.nih.gov/compound/145068
 [^2]: https://molview.org
 [^3]: https://www.essentialchemicalindustry.org/chemicals/nitric-acid.html
