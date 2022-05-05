@@ -19,11 +19,11 @@ K&=\frac{[C]^{c}[D]^d}{[A]^{a}[B]^{b}}
 > If $K > 1$, then $k_{f}>k_{r}$ which means that the **forward reaction is favoured**
 > If $K<1$, then $k_{r}>k_{f}$ which means that the **reverse reaction is favoured**
 > If $K=1$, then the **rates are equal** and **no reaction is favoured**
-> K cannot be $<0$ because that would mean that one of the rates is negative which makes no sense.
+> K **cannot be $<0$** because that would mean that one of the rates is negative which makes no sense.
 
 ## Temperature
 > Temperature changes the [[#The Equilibrium Constant]].
-> The quick way to think about this is: $\dot{K}\approx \Delta H$ (**They only share the same sign**). If $\Delta H<0$ ([[Thermochemistry#Exothermic|Exothermic]]), **K will decrease**. If $\Delta H > 0$ ([[Thermochemistry#Endothermic|Endothermic]]), **K will Increase**
+> The quick way to think about this is: $\dot{K}\propto \dot{T}\Delta H$ (**They only share the same sign**). With a **Temperature increase**, If $\Delta H<0$ ([[Thermochemistry#Exothermic|Exothermic]]), **K will decrease**. If $\Delta H > 0$ ([[Thermochemistry#Endothermic|Endothermic]]), **K will Increase**
  ### Why Though
 > If the reaction is [[Thermochemistry#Exothermic|Exothermic]], an increase in **temperature** will **lower** $K$ because the concentration of products **decreases** and the concentration of reactants **increases**. Just refer to the equation: $K=\frac{\text{prod}}{\text{react}}$
 

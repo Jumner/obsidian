@@ -1,6 +1,6 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Prism",
-  "theme": "obsidian"
+  "cssTheme": "Dracula for Obsidian",
+  "theme": "moonstone"
 }

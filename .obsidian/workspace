@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus/Calculus/Derivatives/Chain Rule.md",
-            "mode": "source",
+            "file": "Physics/Waves and Light/Youngs Lab.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Calculus/Derivatives/Chain Rule.md",
+                "file": "Physics/Waves and Light/Youngs Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,18 +118,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "63082c3e691ecbb4",
   "lastOpenFiles": [
-    "Calculus/Calculus/Derivatives/Chain Rule.md",
-    "Calculus/Calculus/Derivatives/Images/Chain Rule 2022-05-04 13.32.06.excalidraw.md",
-    "Calculus/Calculus/Derivatives/Derivative Rules.md",
     "Physics/Waves and Light/Youngs Lab.md",
-    "Chem/Unit 4 Equilibrium/Chemical Production Assignment.md",
+    "Physics/Waves and Light/Youngs Formula.md",
+    "Physics/Waves and Light/Waves.md",
+    "Physics/Waves and Light/Interference of Waves.md",
     "Chem/Unit 4 Equilibrium/Part 1/The Equilibrium Constant.md",
     "Chem/Unit 4 Equilibrium/Part 1/Le Chateliers's Principle.md",
+    "Chem/Unit 4 Equilibrium/Part 1/ICE Tables.md",
     "Chem/Unit 4 Equilibrium/Part 1/Haber Process & Concentration Time Graphs.md",
     "Chem/Unit 4 Equilibrium/Part 1/Gibbs Free Energy.md",
     "Chem/Unit 4 Equilibrium/Part 1/Equilibrium.md"

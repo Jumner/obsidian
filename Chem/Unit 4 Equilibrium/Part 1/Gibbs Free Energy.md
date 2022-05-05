@@ -7,10 +7,10 @@
 > ![[Pasted image 20220426090111.png]]
 
 ## Exergonic
-> A spontaneous reaction where $\Delta G < 0$
+> A spontaneous forward reaction where $\Delta G < 0$
 
 ## Endergonic
-> A nonspontaneous reaction where $\Delta G > 0$
+> A nonspontaneous forward reaction where $\Delta G > 0$
 
 ## Example
 > Find the Boiling Point of Mercury
