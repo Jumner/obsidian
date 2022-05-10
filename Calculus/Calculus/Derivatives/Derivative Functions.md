@@ -1,0 +1,13 @@
+#derivatives 
+# Derivative Functions
+---
+> A collection of functions and their derivatives
+> These also include some.
+
+## Inverse Functions
+$\frac{df}{dx} \frac{1}{x}=\frac{-1}{x^{2}}$ but why?
+$\frac{1}{x}=x^{-1}$ Just use [[Power Rule#Power Rule|Power Rule!]]
+$\frac{df}{dx}x^{-1}=-x^{-2}=\frac{-1}{x^{2}}$ Of course this can be generalized
+> $$\frac{df}{dx} \frac{1}{x^{n}}=\frac{-n}{x^{n+1}}$$
+
+![[Quotient Rule#Quotient Rule]]

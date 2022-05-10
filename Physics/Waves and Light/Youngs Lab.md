@@ -58,12 +58,10 @@ Answer the following questions in complete sentences.
 > Red Laser: The red laser had a calculated wavelenth of ~658nm which is in the range of red.
 > Overall, the calculated values do agree with the accepted ranges.
 
-
 2. a.  How does the wavelength of the light affect $\Delta x$ value?
 > According to Young's formula ($\Delta x=\frac{L \lambda}{d}$),$\Delta x \propto \lambda$. Because $\Delta x$ is proportional to the wavelength, the larger the wavelength, the larger the distance between the bright bands. Hence, smaller wavelengths have a smaller distance between bright bands.
 
-
-2. b. Explain why the bands of the pattern are multicoloured when white light is viewed through the double slit and why you see the colours in a specific order.
+b. Explain why the bands of the pattern are multicoloured when white light is viewed through the double slit and why you see the colours in a specific order.
 > These <font color="#ff0000">r</font><font color="#ff8000">a</font><font color="#ffff00">i</font><font color="#00ff00">n</font><font color="#00ffff">b</font><font color="#0080ff">o</font><font color="#0000ff">w</font><font color="#8000ff">s</font> that are mentioned above are formed because like stated in question 2a, the distance between each band is proportional to the wavelength. This means that shorter wavelengths are closer to the bulb than longer wavelengths. This makes sense because violet is observed on the inside (meaning smallest $\Delta x$) and it has the shortest wavelength. Each band also gets progressively spread wider because the distance accumulates with each band.
 
 3. Calculate the relative percentage error for the wavelength of the laser ( accepted value is 650nm ).

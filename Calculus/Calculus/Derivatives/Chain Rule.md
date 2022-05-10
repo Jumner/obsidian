@@ -38,3 +38,10 @@ f'(x)=\cos(x)&, g'(x)=2x\\
 &=f'(g(x))\cdot g'(x)\\
 &=\cos(x^{2})\cdot 2x
 \end{align}$$
+### But Why?
+When we look at the derivative of an outside function ($\sin(x)$) we are asking how $\sin(x)$ changes relative to a **change in x** so if we want to find the derivative of $\sin{\sin{x}}$ we must first find how much $\sin{\sin{x}}$ changes relative to a change in $\sin{x}$. To get the change **relative to $x$**, we must multiply by how $\sin{x}$ is changing relative to $x$. In math terms, it looks like this:
+$$\begin{align}
+&\frac{d}{d\sin{x}}\sin\sin{x}=\cos{\sin{x}},\frac{d\sin{x}}{dx}=\cos{x},\\
+&\therefore \frac{d}{dx}\sin\sin{x}= \frac{d}{\cancel{d\sin{x}}}\sin\sin{x}\cdot \frac{\cancel{d\sin{x}}}{dx}=\cos\sin{x}\cdot\cos{x}
+\end{align}$$
+You definitely feel like you're missing information, but the importance of that missing information goes to zero with $dx$

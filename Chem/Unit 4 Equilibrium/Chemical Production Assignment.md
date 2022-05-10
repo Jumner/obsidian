@@ -15,6 +15,7 @@ There are many applications of Nitrogen Monoxide. The main use is as a precursor
 ## Production Of Nitrogen Monoxide
 Nitrogen Monoxide is produced using a reaction with Ammonia and Oxygen gas. This reaction is an exothermic equilibrium reaction. Following is the balanced chemical equation:
 	$\ce{4NH3_{(g)} + 5O2_{(g)} <=> 4NO_{(g)} + 6H2O_{(g)}}, \Delta H=-900\text{kJ/mol}$   
+Both entropy and enthalpy are favoured by the forward reaction.
 	
 [^1]: https://pubchem.ncbi.nlm.nih.gov/compound/145068
 [^2]: https://molview.org
