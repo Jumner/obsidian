@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem/Unit 4 Equilibrium/Chemical Production Assignment.md",
-            "mode": "source",
+            "file": "Physics/Special Relativity/Special Relativity Reading Assignment.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem/Unit 4 Equilibrium/Chemical Production Assignment.md",
+                "file": "Physics/Special Relativity/Special Relativity Reading Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "63082c3e691ecbb4",
   "lastOpenFiles": [
+    "Physics/Special Relativity/Special Relativity Reading Assignment.md",
+    "Physics/Special Relativity/Special Relativity.md",
     "Chem/Unit 4 Equilibrium/Chemical Production Assignment.md",
     "Calculus/Calculus/Derivatives/Derivatives of Exponentials.md",
     "Calculus/Calculus/Derivatives/Derivative Functions.md",
-    "Physics/Special Relativity/Special Relativity Reading Assignment.md",
     "Chem/Unit 4 Equilibrium/Part 2/Hydronium.md",
     "Chem/Unit 4 Equilibrium/Part 2/Acids And Bases.md",
     "Calculus/Calculus/Derivatives/Higher Order Derivatives.md",
     "Calculus/Calculus/Derivatives/Chain Rule.md",
-    "Calculus/Calculus/Derivatives/Derivative.md",
-    "Calculus/Calculus/Derivatives/Quotient Rule.md"
+    "Calculus/Calculus/Derivatives/Derivative.md"
   ]
 }
