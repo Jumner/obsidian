@@ -11,3 +11,5 @@ $\frac{df}{dx}x^{-1}=-x^{-2}=\frac{-1}{x^{2}}$ Of course this can be generalized
 > $$\frac{df}{dx} \frac{1}{x^{n}}=\frac{-n}{x^{n+1}}$$
 
 ![[Quotient Rule#Quotient Rule]]
+![[Derivatives of Exponentials#Derivatives of Exponentials]]
+![[Derivatives of Exponentials#Derivatives of Logarithms]]

@@ -16,7 +16,15 @@ There are many applications of Nitrogen Monoxide. The main use is as a precursor
 Nitrogen Monoxide is produced using a reaction with Ammonia and Oxygen gas. This reaction is an exothermic equilibrium reaction. Following is the balanced chemical equation:
 	$\ce{4NH3_{(g)} + 5O2_{(g)} <=> 4NO_{(g)} + 6H2O_{(g)}}, \Delta H=-900\text{kJ/mol}$   
 Both entropy and enthalpy are favoured by the forward reaction.
-	
+This means that $K$ will be very large
+$$K=\frac{[\ce{NO_{(g)}}]^{4}[\ce{H2O_{(g)}}]^{6}}{[\ce{NH3_{(g)}}]^{4}[\ce{O2_{(g)}}]^{5}}$$
+## Improving Production Rate
+### Concentration
+In order to increase the reaction rate, the concentration of the reactants should be increased. This concentration change will decrease the reaction quotient. In order to restore equilibrium, the reaction will shift right and form products in order to restore equilibrium.
+### Temperature
+### Pressure
+### Other Recommendations
+
 [^1]: https://pubchem.ncbi.nlm.nih.gov/compound/145068
 [^2]: https://molview.org
 [^3]: https://www.essentialchemicalindustry.org/chemicals/nitric-acid.html
