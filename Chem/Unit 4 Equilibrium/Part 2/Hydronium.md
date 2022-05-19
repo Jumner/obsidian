@@ -7,6 +7,8 @@
 > When the pH is 7:
 > $[\ce{H3O+}]=[\ce{OH-}]=1.0\cdot10^{-7}$
 
+^078137
+
 ## Problems
 What are the concentrations with a $[\ce{HCl}]=1.0\cdot10^{-4}$ 
 $\ce{HCl + H2O -> H3O+ + Cl-}$

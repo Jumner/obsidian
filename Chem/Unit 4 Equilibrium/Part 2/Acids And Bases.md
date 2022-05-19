@@ -31,6 +31,17 @@
 > Acids receive an electron pair and has a nonfull octet. 
 > Bases donate an electron pair and has lone pairs.
 ![[Pasted image 20220512090815.png]]
-## Strong Vs Weak
+## Strong Vs [[Weak Acids#Weak Acids|Weak]]
 > A strong acid is one that fully disassociates, All the hydrogens contribute to its acidity.
-> For example, the methyl group in vinegar ($\ce{CH3COOH}$) does not disassociate.
+> For example, the methyl group in vinegar ($\ce{CH3COOH}$) does not disassociate. **This is not because of the methyl group**.
+> However, they can have **any [[pH and pOH#pH|pH]]**. A strong acid can have a higher [[pH and pOH#pH|pH]] than a [[Weak Acids#Weak Acids|Weak Acid]]. **It all depends on the concentrations**.
+
+> The [[Weak Acids#Acid Ionization Constant|Acid Ionization Constant]] times the [[Weak Bases#Base Ionization Constant|Base Ionization Constant]] is equal to the [[pH and pOH#^7c7af5|Water Equilibrium Constant]].
+> $K_{a}\times K_{b}=K_{w}$ 
+> If you take the $-\log$ of everything, you get $pK_{a} + pK_{b} = pK_{w}=pH+pOH=14$
+> 
+
+
+## Indicators
+> Indicators are a chemical that changes colour depending on the [[pH and pOH#pH|pH]] 
+> They often act as [[#Conjugate Acid and Base]], usually an **acid or [[#Conjugate Acid and Base|Conjugate Base]]** 

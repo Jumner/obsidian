@@ -22,4 +22,7 @@ t&=\frac{2L}{c\sqrt{1- \frac{v^{2}}{c^{2}}}}
 >$$\begin{align}
 t&=\frac{t_{0}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}
 \end{align}$$
-t0 is the time that B spent
+
+## What Is 0
+> The 0 in $t_{0}$ is the time **relative** to **what is being measured**
+> So if you are in a ship watching something on earth, the $t_{0}$ is the earth time and $t$ is the ship time.
