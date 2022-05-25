@@ -6,7 +6,7 @@
 
 > - The derivative of an exponential **is proportional to itself** $$\dot{2^{x}}=k2^{x}$$
 > - The derivative of $e^{x}$ **is equal to** $e^{x}$ 
-> - The proportiality constant is equal to the **natural log** of the base $$\begin{align}
+> - The proportionality constant is equal to the **natural log** of the base $$\begin{align}
 \dot{2^{x}}=k2^{x}&,k=\ln{2}\\
 \therefore \dot{2^{x}}&=\ln{2}\cdot2^{x}
 \end{align}$$  
@@ -26,6 +26,13 @@
 # Derivatives of Logarithms
 ---
 > $$\dot{\log_{a}x}=\frac{1}{x\ln{a}}$$
+> $$\begin{align}
+y&=\log_{b}x\\
+b^{y}&=x\\
+\dot{b^{y}}&=\dot{x}\\
+b^{y}\ln{b}\cdot\dot{y}&=1\\
+\dot{y}&= \frac{1}{x\ln{b}}
+\end{align}$$
 ## Natural Log
 > The derivative of natural log of x is just 1/x
 > $$\dot{\ln(x)}=\frac{1}{x}$$

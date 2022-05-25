@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Special Relativity/Mass And Energy.md",
+            "file": "Calculus/Calculus/Derivatives/Derivatives of Exponentials.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "K_{w}",
+                "query": "pK_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Special Relativity/Mass And Energy.md",
+                "file": "Calculus/Calculus/Derivatives/Derivatives of Exponentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -122,15 +123,15 @@
   },
   "active": "63082c3e691ecbb4",
   "lastOpenFiles": [
+    "Calculus/Calculus/Derivatives/Derivatives of Exponentials.md",
+    "Calculus/Calculus/Derivatives/Derivative Rules.md",
+    "Calculus/Calculus/Derivatives/Derivative Functions.md",
+    "Chem/Unit 4 Equilibrium/Part 2/Titrations.md",
+    "Calculus/Calculus/Derivatives/Quotient Rule.md",
+    "Physics/Special Relativity/The Borg.md",
     "Physics/Special Relativity/Mass And Energy.md",
-    "Chem/Unit 4 Equilibrium/Part 2/Acids And Bases.md",
-    "Chem/Unit 4 Equilibrium/Part 2/Weak Bases.md",
-    "Chem/Unit 4 Equilibrium/Part 2/pH and pOH.md",
-    "Chem/Unit 4 Equilibrium/Part 2/Weak Acids.md",
-    "Calculus/Calculus/Derivatives/Implicit Differentiation.md",
-    "Physics/Special Relativity/Special Relativity.md",
-    "Physics/Special Relativity/Special Relativity Reading Assignment.md",
     "Physics/Special Relativity/Mass Dilation.md",
+    "Physics/Special Relativity/Images/The Borg 2022-05-20 10.01.21.excalidraw.md",
     "Physics/Special Relativity/Length Contraction.md"
   ]
 }

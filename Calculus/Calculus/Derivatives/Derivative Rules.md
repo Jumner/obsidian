@@ -10,7 +10,9 @@
 6. $f(x)=\frac{p(x)}{q(x)},f'(x)=\frac{p'(x)q(x)-p(x)q'(x)}{q(x)^{2}}$ [[Quotient Rule#Quotient Rule|Quotient Rule]]
 7. $f(x)=p(x)^{n}, f'(x)=n\cdot p(x)^{n-1}\cdot p'(x)$ [[Power Rule#Power Rule|Power]] and [[Chain Rule#Function Composition|Chain Rule]] 
 8. $f(x)=p(q(x)), f'(x)=p'(q(x))\cdot q'(x)$ [[Chain Rule#Function Composition|Chain Rule]] **Function Composition**
-
+9. $f(x)=b^{x},f'(x) = b^{x}\ln{b}$ [[Derivatives of Exponentials#Derivatives of Exponentials|Exponential Rule]] 
+10. $f(x)=\log_{b}{x}, f'(x)=\frac{1}{\ln{b}x}$ [[Derivatives of Exponentials#Derivatives of Logarithms|Logarithm Rule]] 
+ 
 ![[Power Rule#Power Rule]]
 
 ---
