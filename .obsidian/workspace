@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus/Calculus/Derivatives/Derivatives of Exponentials.md",
+            "file": "Chem/Unit 4 Equilibrium/Part 2/Titrations.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pK_",
+                "query": "buffer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Calculus/Derivatives/Derivatives of Exponentials.md",
+                "file": "Chem/Unit 4 Equilibrium/Part 2/Titrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "63082c3e691ecbb4",
   "lastOpenFiles": [
+    "Chem/Unit 4 Equilibrium/Part 2/Titrations.md",
+    "Chem/Unit 4 Equilibrium/Part 2/Salts.md",
     "Calculus/Calculus/Derivatives/Derivatives of Exponentials.md",
     "Calculus/Calculus/Derivatives/Derivative Rules.md",
     "Calculus/Calculus/Derivatives/Derivative Functions.md",
-    "Chem/Unit 4 Equilibrium/Part 2/Titrations.md",
     "Calculus/Calculus/Derivatives/Quotient Rule.md",
     "Physics/Special Relativity/The Borg.md",
     "Physics/Special Relativity/Mass And Energy.md",
     "Physics/Special Relativity/Mass Dilation.md",
-    "Physics/Special Relativity/Images/The Borg 2022-05-20 10.01.21.excalidraw.md",
-    "Physics/Special Relativity/Length Contraction.md"
+    "Physics/Special Relativity/Images/The Borg 2022-05-20 10.01.21.excalidraw.md"
   ]
 }
