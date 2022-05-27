@@ -26,4 +26,3 @@ $\ce{4H -> He}$
 
 ## Electron Volts
 > Measure of energy, $1\text{eV}=1.60\cdot10^{-16}\text{J}$
-> 

@@ -23,7 +23,7 @@
 > After the **Acid** donates its $\ce{H+}$, it becomes negative and becomes a **Conjugate Base**. Once a **Base** accepts an $\ce{H+}$ it becomes a **Conjugate Acid**
 
 ### Amphoteric
-> A chemical that **acts like an acid or base** but is not
+> A chemical that can act like **<u>either</u>** an **acid or base** but is not
 > For example water here:
 > ![[Pasted image 20220512085254.png]]
 
@@ -38,7 +38,8 @@
 
 > The [[Weak Acids#Acid Ionization Constant|Acid Ionization Constant]] times the [[Weak Bases#Base Ionization Constant|Base Ionization Constant]] is equal to the [[pH and pOH#^7c7af5|Water Equilibrium Constant]].
 > $K_{a}\times K_{b}=K_{w}$ 
-> If you take the $-\log$ of everything, you get $pK_{a} + pK_{b} = pK_{w}=pH+pOH=14$
+> If you take the $-\log$ of everything, you get 
+> [[Buffer#pKa|pKa]] + [[Buffer#pKb|pKb]]$= pK_{w}, pH+pOH=14$
 > 
 
 

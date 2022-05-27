@@ -5,7 +5,7 @@
 
 ## Equivalence Point
 > The point when the reaction is stochiometric.
-> It is often hard to detect the [[#End Point]] so the [[#Equivalence Point]] is used instead
+> It is often hard to detect so the [[#End Point]]  is used instead
 
 ## End Point
 > The point when an indicator tells us that we are at or past the [[#Equivalence Point]] 
@@ -17,11 +17,6 @@
 > The curve of [[pH and pOH#pH|pH]] through a [[#Titrations|Titration]]. Shows the [[#Equivalence Point]].
 ![[Pasted image 20220520084431.png]]
 ![[Pasted image 20220520091401.png]]
-## Buffer Solution
-> A buffer is a solution with a [[Weak Acids#Weak Acids|Weak Acid]], or a [[Weak Bases#Weak Bases|Weak Base]], containing their [[Acids And Bases#Conjugate Acid and Base|Conjugates]]. This creates a more gradual [[#Titration Curve]] because the weak acid will slowly disassociate over the whole [[pH and pOH#pH|pH]] range. This effect is most significant at a [[pH and pOH#pH|pH]] of 7.
-
-### Buffer Capacity
-> A buffer can only absorb so much before it runs out and allows the displacement to take full effect.
 ## Examples
 ### Diprotic Acid
 > how much 0.2M $\ce{NaOH}$ to titrate 0.025mL of 0.08M $\ce{H2SO4}$ 
