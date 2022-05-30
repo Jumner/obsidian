@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem/Unit 5 Organic Chemistry/Cyclic.md",
+            "file": "Calculus/Calculus/Graphing/Asymptotes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asymptote",
+                "query": "left hand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem/Unit 5 Organic Chemistry/Cyclic.md",
+                "file": "Calculus/Calculus/Graphing/Asymptotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,15 +122,15 @@
   },
   "active": "63082c3e691ecbb4",
   "lastOpenFiles": [
+    "Calculus/Calculus/Graphing/Asymptotes.md",
+    "Calculus/Calculus/Unit 1/Limits.md",
+    "Calculus/Calculus/Graphing/Graphing Derivatives.md",
     "Chem/Unit 5 Organic Chemistry/Cyclic.md",
     "Chem/Unit 5 Organic Chemistry/Alkanes, Alkenes, and Alkynes.md",
     "Physics/Quantum Theory/Quantum Theory Assignment.md",
     "Chem/Unit 5 Organic Chemistry/Hydrocarbons.md",
     "Chem/Unit 5 Organic Chemistry/Diagrams.md",
     "Chem/Unit 5 Organic Chemistry/Organic Chemistry.md",
-    "Chem/Unit 5 Organic Chemistry/IUPAC.md",
-    "Calculus/Calculus/Graphing/Definitions.md",
-    "Chem/Unit 4 Equilibrium/Part 2/Titrations.md",
-    "Chem/Unit 4 Equilibrium/Part 2/Acids And Bases.md"
+    "Chem/Unit 5 Organic Chemistry/IUPAC.md"
   ]
 }
