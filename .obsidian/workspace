@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem/Unit 4 Equilibrium/Part 2/Titrations.md",
-            "mode": "preview",
+            "file": "Calculus/Calculus/Graphing/Definitions.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "titration curve",
+                "query": "asymptote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem/Unit 4 Equilibrium/Part 2/Titrations.md",
+                "file": "Calculus/Calculus/Graphing/Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "63082c3e691ecbb4",
   "lastOpenFiles": [
+    "Calculus/Calculus/Graphing/Definitions.md",
     "Chem/Unit 4 Equilibrium/Part 2/Titrations.md",
     "Chem/Unit 4 Equilibrium/Part 2/Acids And Bases.md",
     "Chem/Unit 4 Equilibrium/Part 2/Solubility Product.md",
@@ -131,7 +132,6 @@
     "Chem/Unit 4 Equilibrium/Part 2/Hydronium.md",
     "Chem/Unit 4 Equilibrium/Part 2/Weak Acids.md",
     "Chem/Unit 4 Equilibrium/Part 2/pH and pOH.md",
-    "Chem/Unit 4 Equilibrium/Part 2/Weak Bases.md",
-    "Chem/Unit 4 Equilibrium/Part 2/Salts.md"
+    "Chem/Unit 4 Equilibrium/Part 2/Weak Bases.md"
   ]
 }
