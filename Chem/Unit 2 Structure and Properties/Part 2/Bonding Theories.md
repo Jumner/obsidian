@@ -17,7 +17,7 @@ does not address [[Orbitals]]
 > Mix ups between single and double bonds can be shown as **2 1.5 bonds** which are **dashed**.
 
 ![[Pasted image 20220308091942.png]]
-A good example of this is [[Benzene]]
+A good example of this is [[Benzene#Benzene|Benzene]]
 ![[Pasted image 20220308090732.png]]
 
 ## Valence Bond Theory

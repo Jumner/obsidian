@@ -7,7 +7,10 @@
 ## Aliphatic
 > [[#Hydrocarbons]] that only have [[Alkanes, Alkenes, and Alkynes]], and [[Cyclic]] structures
 ## Aromatic
-> [[#Hydrocarbons]] Based on **[[Benzene]]** 
+> [[#Hydrocarbons]] Based on **[[Benzene]]** or other similar structures.
+> Because they are [[Bonding Theories#Resonance|Resonant Structures]], carbon one is wherever the most important [[Groups#Groups|Group]] is. The position can be ignored if there is only one [[Groups#Groups|Group]]. 
+> ![[Benzene#Benzene]]
+> 
 
 ## Prefix
 > The prefix of a carbon chain follows **[[IUPAC#IUPAC|IUPAC Nomenclature]]**:
