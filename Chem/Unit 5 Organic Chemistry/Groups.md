@@ -28,7 +28,7 @@
 > A carboxyl group is a [[#Carbonyl]] group with a [[#Hydroxyl]] group. This creates the **Carboxyl group**
 > ![[Pasted image 20220531085205.png]]
 > The hydrogen on the hydroxide disassociates and makes it acidic.
-> When it is bound to another structure, it becomes an acid and ends in **oic acid**.
+> When it is bound to another structure, it becomes an acid and ends in **oic acid**. Eg Acidic acid is actually ethan**oic** acid ([[#Carboxyl]] and a [[#Methyl]]).
 > With [[Benzene#Benzene|Benzene]] you get [[Benzene#Benzoic Acid|Benzoic Acid]] 
 
 ### Amide

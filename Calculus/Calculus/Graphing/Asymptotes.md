@@ -12,7 +12,7 @@
 ## Oblique
 > Function approaches a diagonal line
 > **Only in rational functions**
-> The equation of the line is the quotient of division.To find where it approaches from, take the limit of the remainder.
+> The equation of the line is the quotient of [[Division#Long Division|Division]].To find where it approaches from, take the limit of the remainder.
 
 ## Finding Asymptote
 > if $f(x)= \frac{p(x)}{q(x)}$
