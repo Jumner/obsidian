@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "63082c3e691ecbb4",
+        "id": "e251640b5d00c3fd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Quantum Theory/Quantum Theory Assignment.md",
+            "file": "Chem/Unit 5 Organic Chemistry/Groups.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reson",
+                "query": "polar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Quantum Theory/Quantum Theory Assignment.md",
+                "file": "Chem/Unit 5 Organic Chemistry/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +118,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "63082c3e691ecbb4",
+  "active": "e251640b5d00c3fd",
   "lastOpenFiles": [
-    "Physics/Quantum Theory/Quantum Theory Assignment.md",
     "Chem/Unit 5 Organic Chemistry/Groups.md",
-    "Chem/Unit 5 Organic Chemistry/Benzene.md",
-    "Calculus/Calculus/Graphing/Asymptotes.md",
-    "Calculus/Calculus/Graphing/Synthetic Division.md",
     "Chem/Unit 5 Organic Chemistry/Carbon 1.md",
-    "Chem/Unit 5 Organic Chemistry/Hydrocarbons.md",
-    "Chem/Unit 2 Structure and Properties/Part 2/Bonding Theories.md",
-    "Calculus/Calculus/Unit 1/Limits.md",
-    "Calculus/Calculus/Graphing/Graphing Derivatives.md"
+    "Chem/Unit 5 Organic Chemistry/IUPAC.md",
+    "Chem/Unit 5 Organic Chemistry/Images/IUPAC 2022-06-02 09.22.42.excalidraw.md",
+    "Chem/Unit 5 Organic Chemistry/Alkanes, Alkenes, and Alkynes.md",
+    "Chem/Unit 5 Organic Chemistry/Benzene.md",
+    "Chem/Unit 5 Organic Chemistry/Diagrams.md",
+    "Chem/Unit 5 Organic Chemistry/Organic Chemistry.md",
+    "Chem/Unit 5 Organic Chemistry/Cyclic.md",
+    "Chem/Unit 5 Organic Chemistry/Hydrocarbons.md"
   ]
 }
