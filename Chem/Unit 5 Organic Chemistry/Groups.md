@@ -3,22 +3,47 @@
 ---
 > There are endless amounts of groups.
 
-## Carboxyl
-> A carboxyl group is a carbon with a double bonded oxygen and a hydroxide group.
+## Carbonyl
+> A carbonyl group is a carbon with a double bonded oxygen.
+> ![[Pasted image 20220601092420.png]]
+> This makes the **Ketones** which end in **One** like Propan**one** 
+> There are many groups derived by it
+> ![[Pasted image 20220601095330.png]]
+
+### Aldehyde
+> A [[#Carbonyl]] group with a hydrogen creates an **Aldehyde**
+> ![[Pasted image 20220601092809.png]]
+> These create the **Aldehydes** which end in **Al**. For example Methan**al** or formaldehyde
+
+### Ester
+> A [[#Carbonyl]] group with a single bonded oxygen creates an **Ester**
+> ![[Pasted image 20220601093441.png]]
+
+### Carboxyl
+> A carboxyl group is a [[#Carbonyl]] group with a [[#Hydroxyl]] group. This creates the **Carboxyl group**
 > ![[Pasted image 20220531085205.png]]
 > The hydrogen on the hydroxide disassociates and makes it acidic.
-> When it is bound to another structure, it becomes an acid and ends in oic acid.
-> With [[Benzene#Benzene|Benzene]] you get **Benzoic Acid**
+> When it is bound to another structure, it becomes an acid and ends in **oic acid**.
+> With [[Benzene#Benzene|Benzene]] you get [[Benzene#Benzoic Acid|Benzoic Acid]] 
 
+### Amide
+> A [[#Carbonyl]] group with a [[#amino]] group
+> ![[Pasted image 20220601093419.png]]
 ## Amino
 > The amino group is a nitrogen and 2 hydrogens.
 > ![[Pasted image 20220531085304.png]]
-> With [[Benzene#Benzene|Benzene]] it becomes **Analine**
+> With [[Benzene#Benzene|Benzene]] it becomes [[Benzene#Analine|Analine]]
 
 ## Methyl
 > The methyl group is a carbon and 3 hydrogens
 > ![[Pasted image 20220531085709.png]]
-> With [[Benzene#Benzene|Benzene]] its called **Toluene**
+> With [[Benzene#Benzene|Benzene]] its called [[Benzene#Toluene|Toluene]]
+
+## Hydroxyl
+> The hydroxyl group is a **hydroxide**
+> ![[Pasted image 20220601090516.png]]
+> These create the **Alcohols** and end in ol. Eg methan**ol** 
+> With [[Benzene#Benzene|Benzene]] its called [[Benzene#Phenol|Phenol]]
 
 ## Phenyl
 > Though [[Benzene#Phenol|Phenol]] is a compound on its own. When [[Benzene#Benzene|Benzene]] is a [[Side Chain#Side Chain|Side Chain]] it is called Phenyl.

@@ -11,6 +11,8 @@
 > To find if it comes from above or below, evaluate the limit of $\lim_{x\to{\pm\infty}}f(x-a)$ where $a=$ HA
 ## Oblique
 > Function approaches a diagonal line
+> **Only in rational functions**
+> The equation of the line is the quotient of division.To find where it approaches from, take the limit of the remainder.
 
 ## Finding Asymptote
 > if $f(x)= \frac{p(x)}{q(x)}$
