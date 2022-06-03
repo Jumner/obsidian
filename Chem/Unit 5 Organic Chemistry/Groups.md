@@ -34,7 +34,7 @@
 ### Acetyl
 > An acetyl group is a [[#Carbonyl]] group with a [[#Methyl]] group. 
 > ![[Pasted image 20220602194520.png]]
-> This also creates the oxyacetyl which has an oxygen before the sidechain
+> This also creates the oxyacetyl (acetate) which has an oxygen before the sidechain
 ### Amide
 > A [[#Carbonyl]] group with a [[#amino]] group
 > ![[Pasted image 20220601093419.png]]

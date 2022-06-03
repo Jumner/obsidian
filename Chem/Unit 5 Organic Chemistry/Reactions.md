@@ -28,6 +28,10 @@
 #### Hydrohalogenation
 > When a halogen acid ($\ce{HCl, HBr}$) reacts with an unsaturated [[Hydrocarbons#Hydrocarbons|Hydrocarbon]] to insert both the hydrogen **and** the halogen
 > ![[Pasted image 20220602220052.png]]
+
+##### Dehydrohalogenation
+> This is an [[Equilibrium#Equilibrium|Equilibrium]] so to make it go in reverse, add a strong base to neutralize the base.
+> ![[Pasted image 20220602225040.png]]
 #### Hydration
 > When a water molecule inserts a hydrogen and a [[Groups#Hydroxyl|Hydroxyl]] group indo the unsaturated [[Hydrocarbons#Hydrocarbons|Hydrocarbon]].
 > ![[Pasted image 20220602220311.png]]
@@ -38,6 +42,15 @@
 ### Markovnikov’s Rule
 > If there are more than one position in the reaction, the **more electronegative group** will bond to the carbon with the **fewest** **hydrogens**.
 > ![[Pasted image 20220602221901.png]] 
+### Mild Oxidation
+> Full oxidation is simply [[#Combustion]]. But partial oxidation can also occur. These are caused by agents like $\ce{KMnO4, K2Cr2O7, H2O2}$ , Usually the latter.
+> ![[Pasted image 20220602225401.png]]
+> 1st degree [[Groups#Hydroxyl|Alcohols]] turn into [[Groups#Aldehydes And Ketones|Aldehydes]] (oxygen goes to double bonded)
+> 2nd degree [[Groups#Hydroxyl|Alcohols]] turn into [[Groups#Aldehydes And Ketones|Ketones]] (actually [[Groups#Acetyl|Acetyl]])
+> 3rd degree don't react (carbon carbon bonds are strong)
+#### Reduction
+> The opposite of oxidation is reduction. These require a reducing agent like $\ce{NaBH4,LiAlH4}$.
+> They convert [[Groups#Carboxyl|Carboxyl]] to [[Groups#Carbonyl|Carbonyl]] then to [[Groups#Hydroxyl|Hydroxyl]].
 ### Halogens
 > Halogens are the group containing Chlorine, Bromine, etc...
 > They can replace the hydrogens because they both are missing one [[Electrons#Electrons|Electron]] from their valence. 
