@@ -31,6 +31,10 @@
 > When it is bound to another structure, it becomes an acid and ends in **oic acid**. Eg Acidic acid is actually ethan**oic** acid ([[#Carboxyl]] and a [[#Methyl]]).
 > With [[Benzene#Benzene|Benzene]] you get [[Benzene#Benzoic Acid|Benzoic Acid]] 
 
+### Acetyl
+> An acetyl group is a [[#Carbonyl]] group with a [[#Methyl]] group. 
+> ![[Pasted image 20220602194520.png]]
+> This also creates the oxyacetyl which has an oxygen before the sidechain
 ### Amide
 > A [[#Carbonyl]] group with a [[#amino]] group
 > ![[Pasted image 20220601093419.png]]
