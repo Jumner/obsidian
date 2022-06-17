@@ -26,5 +26,3 @@
 
 ## Toluene
 > A [[#Benzene]] with a [[Groups#Methyl|Methyl Group]]
-
-##
