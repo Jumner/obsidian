@@ -1,0 +1,8 @@
+APSC101 Engineering Design & Practice
+APSC102 Experimentation
+APSC111 Physics
+APSC131 Chemistry & Material Science
+APSC143 Computer Science
+APSC162 Engineering Graphics
+APSC171 Calculus I
+APSC199A English Proficiency
