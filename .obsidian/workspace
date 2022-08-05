@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e251640b5d00c3fd",
+        "id": "7680dc94cf06e3bf",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "fcb4cb7944cb55f0",
+            "id": "c638711f0f6f1a63",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -93,18 +93,18 @@
             }
           },
           {
-            "id": "200220e80621df9a",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "42aa43a05debc610",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6f201cdde4ed921",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
               "state": {}
             }
           }
@@ -115,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fcb4cb7944cb55f0",
+  "active": "7680dc94cf06e3bf",
   "lastOpenFiles": [
+    "APSC101/test.md",
+    "Untitled.md",
+    "APSC101/test2.md",
+    "APSC101/testnote.md",
     "Excalidraw/Drawing 2022-05-10 21.05.02.excalidraw.svg",
     "Excalidraw/Drawing 2022-05-10 21.05.02.excalidraw.png",
     "Archive/Grade 12/12.2/Physics/Electrostatics/Gravity Vs Electrostatics.md",
     "Archive/Grade 12/12.2/Physics/Electrostatics/Electric Fields.md",
     "Archive/Grade 12/12.2/Physics/Electrostatics/Electrostatics.md",
-    "Archive/Grade 12/12.2/Chem/Unit 5 Organic Chemistry/Diagrams.md",
-    "Archive/Grade 12/12.2/Chem/Unit 5 Organic Chemistry/Cyclic.md",
-    "Archive/Grade 12/12.2/Chem/Unit 5 Organic Chemistry/Organic Chemistry.md",
-    "Archive/Grade 12/12.2/Chem/Unit 5 Organic Chemistry/IUPAC.md",
-    "Archive/Grade 12/12.2/Chem/Unit 5 Organic Chemistry/Hydrocarbons.md"
+    "Archive/Grade 12/12.2/Chem/Unit 5 Organic Chemistry/Diagrams.md"
   ]
 }
